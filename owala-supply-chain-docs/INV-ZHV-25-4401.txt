@@ -1,0 +1,57 @@
+COMMERCIAL INVOICE
+
+Invoice No:     INV-ZHV-25-4401
+Date:           August 16, 2025
+PO Reference:   PO-OWL-2025-0847
+
+SELLER:
+  Zhejiang HydroSteel Vessels Co., Ltd.
+  No. 288 Yongkang Industrial Ave, Yongkang, Zhejiang 321300, China
+  Tax ID: 91330784MA2HJXXX72
+  Contact: Wei Liang | wliang@hydrosteelvessels.cn
+
+BUYER:
+  Owala Inc.
+  3060 Sterling Circle Ste 100, Boulder CO 80301, USA
+  EIN: 84-XXXXXXX
+
+CONSIGNEE:
+  Owala Distribution Center (c/o Ryder Logistics)
+  1450 S. Milliken Ave, Ontario CA 91761, USA
+
+TERMS: FOB Ningbo | Net 30 T/T | USD
+
+PORT OF LOADING:    Ningbo, China
+PORT OF DISCHARGE:  Long Beach, CA, USA
+VESSEL:             COSCO Shipping Orchid / Voyage 0285E
+CONTAINER:          CSLU7724580 (40'HC)
+
+ITEMS:
+ Item | SKU           | Description                     | Qty   | Unit $  | Total
+ 1    | OWL-FS24-BLK | FreeSip 24oz Very Very Dark      | 4,000 |  $4.85  | $19,400.00
+ 2    | OWL-FS24-SAG | FreeSip 24oz Sage                | 3,500 |  $4.85  | $16,975.00
+ 3    | OWL-FS24-BLU | FreeSip 24oz Smooshed Blueberry  | 4,000 |  $4.85  | $19,400.00
+ 4    | OWL-FS32-BLK | FreeSip 32oz Very Very Dark      | 3,500 |  $5.60  | $19,600.00
+
+TOTAL UNITS:  15,000
+TOTAL VALUE:  $75,375.00
+
+TOTAL CARTONS: 654 (479 cartons 24oz @ 24/ctn + 175 cartons 32oz @ 20/ctn)
+GROSS WEIGHT:  6,382 kg (14,071 lbs)
+NET WEIGHT:    5,130 kg (11,310 lbs)
+VOLUME:        53.3 CBM
+
+COUNTRY OF ORIGIN: People's Republic of China
+HS CODE: 7323.93.0085 (stainless steel table/kitchen articles, insulated)
+
+Bank Details:
+  Bank of China, Yongkang Branch
+  Account: 4563 5120 0188 XXXX
+  SWIFT: BKCHCNBJ
+
+  I certify the above information is true and correct.
+
+  Wei Liang
+  Export Manager
+  Zhejiang HydroSteel Vessels Co., Ltd.
+  August 16, 2025

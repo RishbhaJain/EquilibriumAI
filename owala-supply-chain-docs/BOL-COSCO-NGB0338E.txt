@@ -1,0 +1,25 @@
+BILL OF LADING
+COSCO SHIPPING LINES CO., LTD.
+
+B/L Number:         COSU6305221847
+Booking Number:     6305221847
+Vessel / Voyage:    COSCO SHIPPING NEBULA / 0338E
+Date of Issue:      November 8, 2025
+
+SHIPPER: Zhejiang HydroSteel Vessels Co., Ltd., Yongkang, China
+CONSIGNEE: TO ORDER OF OWALA INC.
+NOTIFY: Owala Inc., Boulder CO 80301
+
+LOADING: Ningbo, China | DISCHARGE: Long Beach, CA, USA
+
+CONTAINER: OOLU3378291 (40'HC) | Seal: CN2025110822
+
+CARGO:
+  Stainless Steel Insulated Water Bottles (FreeSip, assorted)
+  Ref: INV-ZHV-25-4530 / PO-OWL-2025-1015 (Shipment 2 of 2)
+  725 cartons on 15 pallets
+  Gross Weight: 6,585 kg | Volume: 64.4 CBM
+
+FREIGHT (PREPAID): $4,225.00
+VESSEL: COSCO Shipping Nebula | 19,100 TEU | VLSFO
+ETD: Nov 8, 2025 | ETA: Nov 23, 2025 | ~15 days

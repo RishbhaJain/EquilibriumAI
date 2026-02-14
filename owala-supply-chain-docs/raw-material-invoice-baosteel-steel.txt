@@ -1,0 +1,96 @@
+SALES CONTRACT / INVOICE
+BAOSHAN IRON & STEEL CO., LTD. (BAOSTEEL)
+
+Contract No:    BST-YK-2025-07182
+Invoice No:     BST-INV-2025-34891
+Date:           July 5, 2025
+
+SELLER:
+  Baoshan Iron & Steel Co., Ltd.
+  Baosteel Tower, 370 Pudian Road
+  Pudong New Area, Shanghai 200122, China
+  Contact: Ms. Chen Yufei, Industrial Sales
+  Tel: +86 21 2603 8888
+
+BUYER:
+  Zhejiang HydroSteel Vessels Co., Ltd.
+  No. 288 Yongkang Industrial Ave
+  Yongkang, Zhejiang 321300, China
+  Contact: Mr. Zhang Haifeng, Purchasing
+
+DELIVERY: Ex-Works Baoshan facility, Shanghai
+TRANSPORT: Buyer-arranged trucking (Shanghai → Yongkang, ~360 km)
+
+ITEMS:
+
+ 1. SUS304 (18/8) Stainless Steel Coil — Cold Rolled
+    Grade:      ASTM A240 / JIS G4305 SUS304
+    Thickness:  0.5mm
+    Width:      400mm
+    Finish:     2B (bright annealed)
+    Quantity:   18.5 metric tons (18,500 kg)
+    Price:      RMB 18,200 / metric ton
+    Subtotal:   RMB 336,700.00
+
+ 2. SUS304 (18/8) Stainless Steel Coil — Cold Rolled
+    Thickness:  0.6mm
+    Width:      350mm
+    Finish:     2B
+    Quantity:   14.2 metric tons (14,200 kg)
+    Price:      RMB 18,500 / metric ton
+    Subtotal:   RMB 262,700.00
+
+TOTAL WEIGHT: 32.7 metric tons
+SUBTOTAL:     RMB 599,400.00
+VAT (13%):    RMB 77,922.00
+TOTAL:        RMB 677,322.00 (~USD $93,350 at 7.26 CNY/USD)
+
+DELIVERY SCHEDULE:
+  Coil available for pickup: July 10, 2025
+  Estimated trucking time: 1 day (Shanghai to Yongkang)
+  Trucking arranged by: Yongkang Lianhe Transport Co.
+  Truck type: 6-axle flatbed, 40-ton capacity
+  Distance: ~360 km via G60 expressway
+
+MATERIAL CERTIFICATES:
+  - Mill test certificates per EN 10204 Type 3.1 included
+  - Chemical composition: Cr 18.2%, Ni 8.1%, C 0.04%, Mn 1.2%
+  - RoHS compliant
+
+PRODUCTION NOTE:
+  This steel is sufficient for approximately 85,000-90,000 water bottle
+  bodies (inner + outer wall combined), covering Owala PO-OWL-2025-0847
+  and PO-OWL-2025-0923 production requirements.
+
+  Baosteel Baoshan works produces approximately 800,000 metric tons of
+  stainless steel per month. The facility's annual carbon emissions are
+  reported at approximately 1.83 tonnes CO2e per tonne of crude steel
+  produced (2024 Sustainability Report, page 47).
+
+---
+
+FOLLOW-UP ORDER (for holiday production):
+
+Contract No:    BST-YK-2025-09445
+Invoice No:     BST-INV-2025-41203
+Date:           September 28, 2025
+
+Same buyer/seller. For PO-OWL-2025-1015 and PO-OWL-2025-1102 production.
+
+ 1. SUS304 Cold Rolled Coil, 0.5mm x 400mm
+    Quantity:   24.0 metric tons
+    Price:      RMB 18,400 / MT (slight price increase)
+    Subtotal:   RMB 441,600.00
+
+ 2. SUS304 Cold Rolled Coil, 0.6mm x 350mm
+    Quantity:   19.5 metric tons
+    Price:      RMB 18,700 / MT
+    Subtotal:   RMB 364,650.00
+
+TOTAL WEIGHT: 43.5 metric tons
+SUBTOTAL:     RMB 806,250.00
+VAT (13%):    RMB 104,812.50
+TOTAL:        RMB 911,062.50 (~USD $125,490)
+
+Pickup: October 3, 2025
+Same trucking arrangement: Yongkang Lianhe Transport, ~360 km

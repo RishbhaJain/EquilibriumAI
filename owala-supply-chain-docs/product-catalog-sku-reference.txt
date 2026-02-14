@@ -1,0 +1,53 @@
+================================================================================
+                        OWALA INC. — INTERNAL PRODUCT CATALOG
+                        SKU Reference & Material Specifications
+                        Updated: June 2025 | Rev 3.2
+================================================================================
+
+Company:        Owala Inc.
+Headquarters:   3060 Sterling Circle, Suite 100, Boulder, CO 80301
+
+Primary Manufacturer:   Zhejiang HydroSteel Vessels Co., Ltd.
+                        No. 288 Yongkang Industrial Avenue
+                        Yongkang, Zhejiang Province 321300, China
+                        Contact: Wei Liang (Export Mgr) | wliang@hydrosteelvessels.cn
+
+--- 24 oz FreeSip ---
+SKU: OWL-FS24-BLK     | FreeSip 24oz — Very, Very Dark (Black)
+SKU: OWL-FS24-SAG     | FreeSip 24oz — Sage (Green)
+SKU: OWL-FS24-BLU     | FreeSip 24oz — Smooshed Blueberry (Blue)
+SKU: OWL-FS24-LIL     | FreeSip 24oz — Lilac Purple
+SKU: OWL-FS24-PNK     | FreeSip 24oz — Hyper Flamingo (Pink)
+SKU: OWL-FS24-ORG     | FreeSip 24oz — Tangerine Dream (Orange) *NEW Q4*
+
+--- 32 oz FreeSip ---
+SKU: OWL-FS32-BLK     | FreeSip 32oz — Very, Very Dark (Black)
+SKU: OWL-FS32-SAG     | FreeSip 32oz — Sage (Green)
+SKU: OWL-FS32-BLU     | FreeSip 32oz — Smooshed Blueberry (Blue)
+SKU: OWL-FS32-LIL     | FreeSip 32oz — Lilac Purple
+
+BOM — FreeSip 24oz (unit weight ~342g / 0.754 lbs without packaging):
+  Outer Wall:        18/8 Stainless Steel, 148g — Baosteel (Shanghai)
+  Inner Wall:        18/8 Stainless Steel, 112g — Baosteel (Shanghai)
+  Lid Assembly:      Eastman Tritan Copolyester, 38g — Eastman Chemical (Kingsport, TN)
+  Straw:             Polypropylene, 6g — local supplier (Yongkang)
+  Silicone Gasket:   Food-grade silicone, 4g — Dongguan SinoSeal Ltd.
+  Powder Coating:    Polyester TGIC-free, 12g — Jotun Coatings (Zhangjiagang)
+  Base Boot:         Silicone, 22g — Dongguan SinoSeal Ltd.
+
+BOM — FreeSip 32oz (unit weight ~421g / 0.928 lbs without packaging):
+  Outer Wall:        186g | Inner Wall: 141g | Lid: 42g | Straw: 7g
+  Gasket: 4g | Coating: 15g | Base Boot: 26g
+
+Packaging:
+  Individual box: recycled corrugated (E-flute), 62g (24oz) / 71g (32oz)
+  Master carton 24oz: 24 units/carton, 62x42x30cm, ~10.8 kg gross
+  Master carton 32oz: 20 units/carton, 62x42x35cm, ~10.4 kg gross
+  Supplier: Shenzhen GreenPack Printing Co., Ltd.
+
+Notes:
+  - Tritan resin ships from Kingsport TN to Ningbo port, trucked to Yongkang (~45 day lead)
+  - Steel coil from Baosteel Baoshan facility, trucked 360km to Yongkang
+  - Finished goods trucked Yongkang → Ningbo port (~190 km, ~2.5 hrs)
+  - Ocean route: Ningbo → Long Beach, ~5,680 nautical miles, 12-16 days transit
+  - Factory uses ~3,200 m3 natural gas/month for powder coating ovens (200C, 15 min/batch)

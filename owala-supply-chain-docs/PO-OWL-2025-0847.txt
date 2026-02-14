@@ -1,0 +1,42 @@
+PURCHASE ORDER
+
+PO Number:    PO-OWL-2025-0847
+Date:         July 15, 2025
+Payment:      Net 30 T/T
+Incoterm:     FOB Ningbo
+Currency:     USD
+
+BUYER:
+  Owala Inc.
+  3060 Sterling Circle Ste 100, Boulder CO 80301
+  Contact: Sarah Mitchell, Procurement | s.mitchell@owala.com | (720) 555-0142
+
+VENDOR:
+  Zhejiang HydroSteel Vessels Co., Ltd.
+  No. 288 Yongkang Industrial Ave, Yongkang, Zhejiang 321300, China
+  Contact: Wei Liang | wliang@hydrosteelvessels.cn | +86 579 8723 6600
+
+SHIP TO:
+  Owala Distribution Center (c/o Ryder Logistics)
+  1450 S. Milliken Ave, Ontario CA 91761
+
+Ship Date: Aug 18, 2025 | Delivery: Sep 8, 2025 | Method: Ocean FCL
+
+LINE ITEMS:
+ Line | SKU           | Description                     | Qty   | Unit $  | Total
+ 1    | OWL-FS24-BLK | FreeSip 24oz Very Very Dark      | 4,000 |  $4.85  | $19,400.00
+ 2    | OWL-FS24-SAG | FreeSip 24oz Sage                | 3,500 |  $4.85  | $16,975.00
+ 3    | OWL-FS24-BLU | FreeSip 24oz Smooshed Blueberry  | 4,000 |  $4.85  | $19,400.00
+ 4    | OWL-FS32-BLK | FreeSip 32oz Very Very Dark      | 3,500 |  $5.60  | $19,600.00
+
+SUBTOTAL (15,000 units):     $75,375.00
+SGS Inspection Fee:             $850.00
+TOTAL:                       $76,225.00
+
+Estimated: 654 cartons, ~6,400 kg gross, ~53.3 CBM → 1x 40'HC container
+
+Notes:
+ - QC per Owala Spec QC-FS-2024-v4
+ - Individual retail packaging required per SKU
+ - Vendor arranges inland trucking Yongkang → Ningbo
+ - Certificate of Origin (Form A) required

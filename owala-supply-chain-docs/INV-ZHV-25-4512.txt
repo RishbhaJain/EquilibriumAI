@@ -1,0 +1,46 @@
+COMMERCIAL INVOICE
+
+Invoice No:     INV-ZHV-25-4512
+Date:           October 30, 2025
+PO Reference:   PO-OWL-2025-1015 (Shipment 1 of 2)
+
+SELLER:
+  Zhejiang HydroSteel Vessels Co., Ltd.
+  No. 288 Yongkang Industrial Ave, Yongkang, Zhejiang 321300, China
+
+BUYER:
+  Owala Inc., Boulder CO 80301, USA
+
+CONSIGNEE:
+  Owala Distribution Center (c/o Ryder Logistics)
+  1450 S. Milliken Ave, Ontario CA 91761
+
+TERMS: FOB Ningbo | Net 30 T/T | USD
+
+PORT OF LOADING:    Ningbo, China
+PORT OF DISCHARGE:  Long Beach, CA, USA
+VESSEL:             COSCO Shipping Universe / Voyage 0331E
+CONTAINER NO. 1:   CSLU9012345 (40'HC)
+CONTAINER NO. 2:   CSLU9012388 (40'HC)
+
+ITEMS:
+ Item | SKU           | Description                     | Qty   | Unit $  | Total
+ 1    | OWL-FS24-BLK | FreeSip 24oz Very Very Dark      | 5,000 |  $4.85  | $24,250.00
+ 2    | OWL-FS24-SAG | FreeSip 24oz Sage                | 4,000 |  $4.85  | $19,400.00
+ 3    | OWL-FS24-BLU | FreeSip 24oz Smooshed Blueberry  | 4,500 |  $4.85  | $21,825.00
+ 4    | OWL-FS24-LIL | FreeSip 24oz Lilac Purple        | 3,500 |  $4.85  | $16,975.00
+ 5    | OWL-FS32-BLK | FreeSip 32oz Very Very Dark      | 3,000 |  $5.60  | $16,800.00
+
+TOTAL UNITS:  20,000
+TOTAL VALUE:  $99,250.00
+
+CARTONS: 858 (708 x 24oz + 150 x 32oz)
+GROSS WEIGHT: 8,892 kg
+NET WEIGHT:   7,160 kg
+VOLUME: 68.8 CBM (split across 2 containers)
+
+COUNTRY OF ORIGIN: China
+HS CODE: 7323.93.0085
+
+Note: Balance of 15,000 units from PO-OWL-2025-1015 to follow under
+INV-ZHV-25-4530, estimated departure Nov 7-8, 2025.

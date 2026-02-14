@@ -1,0 +1,44 @@
+COMMERCIAL INVOICE
+
+Invoice No:     INV-ZHV-25-4530
+Date:           November 6, 2025
+PO Reference:   PO-OWL-2025-1015 (Shipment 2 of 2)
+
+SELLER:
+  Zhejiang HydroSteel Vessels Co., Ltd.
+  No. 288 Yongkang Industrial Ave, Yongkang, Zhejiang 321300, China
+
+BUYER:
+  Owala Inc., Boulder CO 80301, USA
+
+CONSIGNEE:
+  Owala Distribution Center (c/o Ryder Logistics)
+  1450 S. Milliken Ave, Ontario CA 91761
+
+TERMS: FOB Ningbo | Net 30 T/T | USD
+
+PORT OF LOADING:    Ningbo, China
+PORT OF DISCHARGE:  Long Beach, CA, USA
+VESSEL:             COSCO Shipping Nebula / Voyage 0338E
+CONTAINER:          OOLU3378291 (40'HC)
+
+ITEMS (balance of PO-OWL-2025-1015):
+ Item | SKU           | Description                     | Qty   | Unit $  | Total
+ 1    | OWL-FS24-PNK | FreeSip 24oz Hyper Flamingo      | 3,000 |  $4.85  | $14,550.00
+ 2    | OWL-FS32-BLK | FreeSip 32oz Very Very Dark      | 2,500 |  $5.60  | $14,000.00
+ 3    | OWL-FS32-SAG | FreeSip 32oz Sage                | 5,000 |  $5.60  | $28,000.00
+ 4    | OWL-FS32-LIL | FreeSip 32oz Lilac Purple        | 4,500 |  $5.60  | $25,200.00
+
+TOTAL UNITS:  15,000
+TOTAL VALUE:  $81,750.00
+
+CARTONS: 725 (125 x 24oz + 600 x 32oz)
+GROSS WEIGHT: 6,585 kg
+NET WEIGHT:   5,318 kg
+VOLUME: 64.4 CBM
+
+COUNTRY OF ORIGIN: China
+HS CODE: 7323.93.0085
+
+This invoice completes PO-OWL-2025-1015 in full.
+Combined totals: 35,000 units, $181,000.00 product value.

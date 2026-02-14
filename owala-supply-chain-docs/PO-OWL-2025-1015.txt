@@ -1,0 +1,50 @@
+PURCHASE ORDER
+
+PO Number:    PO-OWL-2025-1015
+Date:         October 3, 2025
+Payment:      Net 30 T/T
+Incoterm:     FOB Ningbo
+Currency:     USD
+
+BUYER:
+  Owala Inc.
+  3060 Sterling Circle Ste 100, Boulder CO 80301
+  Contact: Sarah Mitchell, Procurement | s.mitchell@owala.com
+
+VENDOR:
+  Zhejiang HydroSteel Vessels Co., Ltd.
+  No. 288 Yongkang Industrial Ave, Yongkang, Zhejiang 321300, China
+  Contact: Wei Liang | wliang@hydrosteelvessels.cn
+
+SHIP TO:
+  Owala Distribution Center (c/o Ryder Logistics)
+  1450 S. Milliken Ave, Ontario CA 91761
+
+Ship Date: Nov 1, 2025 | Delivery: Nov 22, 2025 | Method: Ocean FCL
+*** HOLIDAY SEASON ORDER — PRIORITY ***
+
+LINE ITEMS:
+ Line | SKU           | Description                     | Qty   | Unit $  | Total
+ 1    | OWL-FS24-BLK | FreeSip 24oz Very Very Dark      | 5,000 |  $4.85  | $24,250.00
+ 2    | OWL-FS24-SAG | FreeSip 24oz Sage                | 4,000 |  $4.85  | $19,400.00
+ 3    | OWL-FS24-BLU | FreeSip 24oz Smooshed Blueberry  | 4,500 |  $4.85  | $21,825.00
+ 4    | OWL-FS24-LIL | FreeSip 24oz Lilac Purple        | 3,500 |  $4.85  | $16,975.00
+ 5    | OWL-FS24-PNK | FreeSip 24oz Hyper Flamingo      | 3,000 |  $4.85  | $14,550.00
+ 6    | OWL-FS32-BLK | FreeSip 32oz Very Very Dark      | 5,500 |  $5.60  | $30,800.00
+ 7    | OWL-FS32-SAG | FreeSip 32oz Sage                | 5,000 |  $5.60  | $28,000.00
+ 8    | OWL-FS32-LIL | FreeSip 32oz Lilac Purple        | 4,500 |  $5.60  | $25,200.00
+
+SUBTOTAL (35,000 units):     $181,000.00
+SGS Inspection Fee:            $1,800.00
+Rush Production Surcharge:     $3,500.00
+TOTAL:                       $186,300.00
+
+Estimated: 1,583 cartons, ~15,500 kg gross, ~133 CBM → 2x 40'HC containers
+(Split shipment expected: ~20,000 units + ~15,000 units)
+
+Notes:
+ - HOLIDAY PRIORITY: Production must begin within 5 business days of PO receipt
+ - Vendor to split across two containers / two shipments
+ - First shipment must depart Ningbo by Nov 1; second by Nov 8
+ - Separate commercial invoice per shipment, both referencing this PO
+ - Include holiday gift-ready packaging inserts for retail units

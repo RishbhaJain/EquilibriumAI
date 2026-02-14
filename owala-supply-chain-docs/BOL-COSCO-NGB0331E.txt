@@ -1,0 +1,43 @@
+BILL OF LADING
+COSCO SHIPPING LINES CO., LTD.
+
+B/L Number:         COSU6301445590
+Booking Number:     6301445590
+Vessel / Voyage:    COSCO SHIPPING UNIVERSE / 0331E
+Date of Issue:      November 1, 2025
+
+SHIPPER:
+  Zhejiang HydroSteel Vessels Co., Ltd.
+  Yongkang, Zhejiang 321300, China
+
+CONSIGNEE: TO ORDER OF OWALA INC.
+NOTIFY: Owala Inc., Boulder CO 80301
+
+PORT OF LOADING:    Ningbo, China
+PORT OF DISCHARGE:  Long Beach, CA, USA
+
+CONTAINERS / SEALS:
+  Container 1:  CSLU9012345 (40'HC) | Seal: CN2025110105
+  Container 2:  CSLU9012388 (40'HC) | Seal: CN2025110106
+
+CARGO:
+  Stainless Steel Insulated Water Bottles (FreeSip, assorted)
+  Ref: INV-ZHV-25-4512 / PO-OWL-2025-1015 (Shipment 1 of 2)
+  858 cartons on 18 pallets (split across 2 containers)
+  Gross Weight: 8,892 kg (total)
+  Volume: 68.8 CBM (total)
+
+FREIGHT (PREPAID):
+  Ocean Freight (2x 40HC): $5,700.00
+  BAF + LSS:               $1,210.00
+  THC (O+D):               $1,390.00
+  Doc Fee:                 $75.00
+  TOTAL:                   $8,375.00
+
+VESSEL: COSCO Shipping Universe | IMO 9795163 | 21,237 TEU | Built 2019
+  Fuel: VLSFO (0.5% sulphur)
+  Main Engine: MAN B&W 11G95ME-C10.5
+  Service speed: 17 knots
+
+ETD: Nov 1, 2025 | ETA: Nov 16, 2025 | Transit: ~15 days
+Route: Ningbo → Long Beach (~5,680 nm)

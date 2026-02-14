@@ -1,0 +1,184 @@
+ZHEJIANG HYDROSTEEL VESSELS CO., LTD.
+FACILITY PROFILE & SUSTAINABILITY REPORT — 2024/2025
+
+================================================================================
+COMPANY OVERVIEW
+================================================================================
+
+Legal Name:       Zhejiang HydroSteel Vessels Co., Ltd.
+                  浙江海德钢业容器有限公司
+Established:      2008
+Registration:     91330784MA2HJXXX72
+
+Address:          No. 288 Yongkang Industrial Avenue
+                  Yongkang, Zhejiang Province 321300
+                  People's Republic of China
+
+Factory Area:     28,000 square meters (total site)
+                  18,500 square meters (production floor)
+Employees:        342 (as of Dec 2024)
+                  Production workers: 265
+                  Administrative/QC: 77
+
+Annual Revenue:   RMB 280 million (~USD 38.5 million) — FY2024
+Annual Output:    ~4.2 million insulated vessel units (2024)
+
+Key Customers:    Owala Inc. (USA), Thermos (Japan), Stanley PMI (USA),
+                  S'well (USA), various white-label clients
+
+General Manager:  Mr. Wang Jianguo
+Export Manager:   Mr. Wei Liang
+QC Director:      Ms. Fang Mei
+
+================================================================================
+PRODUCTION PROCESS
+================================================================================
+
+The manufacturing process for double-wall vacuum insulated bottles:
+
+1. STEEL CUTTING & FORMING
+   - Stainless steel coils are cut into blanks using CNC punching machines
+   - Inner and outer walls are deep-drawn on hydraulic presses (400-ton)
+   - Neck forming and trimming on CNC lathes
+   - 8 hydraulic presses, 4 CNC lathes
+
+2. WELDING & ASSEMBLY
+   - Inner and outer walls joined via TIG welding (automated)
+   - Vacuum chamber created between walls
+   - 6 automated TIG welding stations
+   - Manual assembly for lid components
+
+3. VACUUM SEALING
+   - Bottles placed in vacuum chamber
+   - Air evacuated to <0.01 Pa
+   - Sealed with copper-tipped brazing
+   - 4 vacuum furnaces (operate at 850°C)
+   - Vacuum furnace cycle: 4 hours per batch of 200 units
+
+4. POWDER COATING
+   - Electrostatic powder application
+   - Oven curing at 200°C for 15 minutes per rack
+   - 2 coating lines, each with 8-meter curing oven
+   - Gas consumption: ~3,200 m³ natural gas per month (coating ovens only)
+
+5. QUALITY CONTROL
+   - Vacuum retention test (24hr)
+   - Temperature retention test (per ASTM F2640)
+   - Leak testing
+   - Visual inspection (100%)
+   - SGS pre-shipment inspection per customer requirement
+
+6. PACKAGING
+   - Individual retail boxes applied
+   - Packed into master cartons
+   - Palletized for container loading
+
+================================================================================
+ENERGY CONSUMPTION — 2024 ANNUAL DATA
+================================================================================
+
+Electricity:
+  Total annual consumption:         3,840,000 kWh (3,840 MWh)
+  Monthly average:                  320,000 kWh
+  Source:                           Zhejiang Provincial Grid
+  Grid emission factor (2024):     0.5810 kg CO2e / kWh
+                                   (per MEE China Regional Grid Factor)
+  Electricity-related emissions:    2,231 tonnes CO2e
+
+Natural Gas:
+  Total annual consumption:         38,400 m³
+  Monthly average:                  3,200 m³
+  Used for:                         Powder coating ovens (primary)
+                                    Vacuum furnaces (supplemental heating)
+                                    Space heating in winter months
+  Emission factor:                  2.0 kg CO2 / m³ natural gas
+  Natural gas emissions:            76.8 tonnes CO2e
+
+Diesel (factory vehicles, backup generator):
+  Annual consumption:               8,200 liters
+  Emission factor:                  2.68 kg CO2 / liter
+  Diesel emissions:                 22.0 tonnes CO2e
+
+TOTAL SCOPE 1 + SCOPE 2 EMISSIONS:  ~2,330 tonnes CO2e (2024)
+
+Per-unit carbon intensity:
+  Total production 2024:            4,200,000 units
+  Emissions per unit:               0.555 kg CO2e per bottle
+  (manufacturing only — excludes raw materials and transportation)
+
+================================================================================
+WATER USAGE
+================================================================================
+
+  Annual water consumption:         42,000 cubic meters
+  Primary use:                      Cooling systems, cleaning, testing
+  Wastewater treatment:             On-site treatment plant (Level 1 discharge)
+  Water source:                     Municipal supply (Yongkang city)
+
+================================================================================
+WASTE & RECYCLING
+================================================================================
+
+  Stainless steel scrap:            ~185 tonnes/year (recycled 100%)
+  Powder coating waste:             ~4.2 tonnes/year (hazardous waste, contracted disposal)
+  Cardboard/packaging waste:        ~32 tonnes/year (recycled)
+  General waste:                    ~18 tonnes/year (landfill)
+
+================================================================================
+CERTIFICATIONS
+================================================================================
+
+  ISO 9001:2015    Quality Management (certified by SGS)
+  ISO 14001:2015   Environmental Management (certified by TUV)
+  ISO 45001:2018   Occupational Health & Safety
+  BSCI             Business Social Compliance Initiative — Grade A
+  FDA registered   Facility registration for food-contact articles
+  SEDEX            Ethical trade membership (4-pillar audit completed 2024)
+
+================================================================================
+LOGISTICS — FACTORY TO PORT
+================================================================================
+
+All finished goods are transported from the factory to Ningbo-Zhoushan Port
+for container loading and ocean shipment.
+
+  Route:            Yongkang → Ningbo Port (via G1512 / S28 expressway)
+  Distance:         ~190 km
+  Transit time:     2.5 — 3 hours
+  Vehicle type:     Heavy-duty truck (FAW Jiefang J7, 6x4 tractor + trailer)
+  Fuel type:        Diesel (China VI emission standard)
+  Fuel consumption: ~35 liters / 100 km (loaded)
+  Typical load:     1 x 40'HC container per truck
+  Trucking company: Yongkang Lianhe Transport Co., Ltd.
+  Cost:             RMB 2,800 — 3,200 per trip
+
+  Estimated emissions per trip:
+    190 km × 0.35 L/km × 2.68 kg CO2/L = ~178 kg CO2e per container trip
+
+================================================================================
+SUPPLY CHAIN SUMMARY (FOR ONE OWALA FREESIP 24OZ UNIT)
+================================================================================
+
+  Raw material (stainless steel):   sourced from Shanghai (~360 km away)
+  Raw material (Tritan resin):      sourced from USA → Ningbo → Yongkang
+  Raw material (silicone):          sourced from Dongguan (~980 km away)
+  Raw material (powder coating):    sourced from Zhangjiagang (~450 km away)
+  Manufacturing:                    Yongkang factory
+  Factory → Port:                   Yongkang → Ningbo (~190 km truck)
+  Ocean freight:                    Ningbo → Long Beach (~5,680 nm ocean)
+  Port → DC:                        Long Beach → Ontario, CA (~55 miles truck)
+  DC → Retail:                      Various US destinations
+
+================================================================================
+CONTACT
+================================================================================
+
+  For sustainability inquiries:
+  Ms. Liu Ting, ESG Coordinator
+  liu.ting@hydrosteelvessels.cn
+  +86 579 8723 6618
+
+  This report was prepared in accordance with internal data collection.
+  External verification by TUV Rheinland scheduled for Q2 2026.
+
+  Last updated: March 2025

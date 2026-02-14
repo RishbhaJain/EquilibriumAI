@@ -1,0 +1,46 @@
+COMMERCIAL INVOICE
+
+Invoice No:     INV-ZHV-25-4558
+Date:           November 20, 2025
+PO Reference:   PO-OWL-2025-1102
+
+SELLER:
+  Zhejiang HydroSteel Vessels Co., Ltd.
+  No. 288 Yongkang Industrial Ave, Yongkang, Zhejiang 321300, China
+
+BUYER:
+  Owala Inc., Boulder CO 80301, USA
+
+CONSIGNEE:
+  Owala Distribution Center (c/o Ryder Logistics)
+  1450 S. Milliken Ave, Ontario CA 91761
+
+TERMS: FOB Ningbo | Net 15 T/T (expedited) | USD
+
+PORT OF LOADING:    Ningbo, China
+PORT OF DISCHARGE:  Long Beach, CA, USA
+VESSEL:             Maersk Edirne / Voyage 249W
+CONTAINER:          MSKU6634217 (40'HC)
+
+*** RUSH ORDER — EXPEDITED SHIPPING ***
+
+ITEMS:
+ Item | SKU           | Description                     | Qty   | Unit $  | Total
+ 1    | OWL-FS24-BLK | FreeSip 24oz Very Very Dark      | 7,000 |  $4.85  | $33,950.00
+ 2    | OWL-FS24-BLU | FreeSip 24oz Smooshed Blueberry  | 6,000 |  $4.85  | $29,100.00
+ 3    | OWL-FS32-BLK | FreeSip 32oz Very Very Dark      | 5,000 |  $5.60  | $28,000.00
+
+TOTAL UNITS:  18,000
+TOTAL VALUE:  $91,050.00
+
+CARTONS: 792 (542 x 24oz + 250 x 32oz)
+GROSS WEIGHT: 7,712 kg
+NET WEIGHT:   6,156 kg
+VOLUME: 64.9 CBM
+
+COUNTRY OF ORIGIN: China
+HS CODE: 7323.93.0085
+
+Note: Rush production completed with overtime shifts Nov 10-19.
+Shipped via Maersk (faster transit time of 11 days vs COSCO 14 days).
+This invoice fulfills PO-OWL-2025-1102 in full. Single shipment.

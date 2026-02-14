@@ -1,0 +1,146 @@
+COSCO SHIPPING LINES CO., LTD.
+ENVIRONMENTAL SUSTAINABILITY REPORT — 2024 (EXCERPT)
+Fleet Carbon Emissions & Efficiency Data
+
+================================================================================
+COMPANY OVERVIEW
+================================================================================
+
+COSCO SHIPPING Lines Co., Ltd. is a subsidiary of China COSCO SHIPPING
+Corporation Limited. Headquartered in Shanghai, COSCO operates one of the
+world's largest container shipping fleets.
+
+Total Fleet (as of Dec 2024):
+  Container vessels:            512
+  Total capacity:               2.94 million TEU
+  Active routes:                428 (covering 142 countries/regions)
+
+================================================================================
+FLEET EMISSIONS — 2024 ANNUAL DATA
+================================================================================
+
+Total CO2 Emissions (Scope 1):     18.7 million tonnes CO2
+Total Fuel Consumption:            5.89 million tonnes
+  - VLSFO (0.5% S):               4.72 million tonnes (80.1%)
+  - HSFO (3.5% S, w/ scrubber):   0.74 million tonnes (12.6%)
+  - MGO/MDO:                      0.29 million tonnes (4.9%)
+  - LNG:                          0.14 million tonnes (2.4%)
+
+Fleet Average Carbon Intensity:
+  EEOI (Energy Efficiency Operational Indicator):
+    Fleet average:               12.45 g CO2 / tonne-km
+    Trans-Pacific service:       10.82 g CO2 / tonne-km
+    Asia-Europe service:         9.67 g CO2 / tonne-km
+    Intra-Asia service:          15.21 g CO2 / tonne-km
+
+  AER (Annual Efficiency Ratio):
+    Fleet average:               8.12 g CO2 / dwt-nautical mile
+
+  CII Rating Distribution (2024):
+    A-rated vessels:             48  (9.4%)
+    B-rated vessels:             187 (36.5%)
+    C-rated vessels:             209 (40.8%)
+    D-rated vessels:             58  (11.3%)
+    E-rated vessels:             10  (2.0%)
+
+================================================================================
+TRANS-PACIFIC ROUTE SPECIFIC DATA (Asia → US West Coast)
+================================================================================
+
+Route: China (Ningbo/Shanghai) → Long Beach / Los Angeles
+Service: CPX (China-Pacific Express) and associated loops
+Typical distance: 5,600-5,800 nautical miles
+Typical transit time: 12-16 days
+
+Vessels commonly deployed on this route:
+  - COSCO Shipping Orchid (19,100 TEU, 2018)
+  - COSCO Shipping Peony (19,100 TEU, 2018)
+  - COSCO Shipping Jasmine (19,100 TEU, 2018)
+  - COSCO Shipping Universe (21,237 TEU, 2019)
+  - COSCO Shipping Nebula (19,100 TEU, 2018)
+
+Route-specific emission factors (2024 measured data):
+
+For 19,100 TEU class vessels (slow steaming at 16-17 knots):
+  Fuel consumption per voyage (one-way):
+    ~3,800 tonnes VLSFO (Ningbo → Long Beach)
+  CO2 per voyage:
+    ~11,970 tonnes CO2 (at 3.151 kg CO2 / kg VLSFO)
+  Average container utilization: 92%
+  Estimated TEU-miles: ~100.3 million per voyage
+    (17,572 TEU loaded × 5,700 nm)
+
+  CO2 per TEU:           ~680 kg CO2 per TEU (one-way)
+  CO2 per TEU-km:        ~64.4 g CO2 per TEU-km
+                         (= 680,000 g / 10,556 km)
+
+  For a single 40'HC container (= 2 TEU):
+    ~1,360 kg CO2 per container (one-way, Ningbo → Long Beach)
+
+  Weight-based allocation:
+    Average cargo weight per TEU: ~10.5 tonnes
+    CO2 per tonne of cargo: ~64.8 kg CO2 per tonne
+    CO2 per tonne-km: ~6.1 g CO2 per tonne-km
+
+For 21,237 TEU class vessels:
+  Slightly more efficient due to larger scale:
+  ~620 kg CO2 per TEU (one-way)
+  ~58.7 g CO2 per TEU-km
+
+================================================================================
+SLOW STEAMING VS EXPRESS SERVICE
+================================================================================
+
+COSCO employs slow steaming (reduced speed) on most Trans-Pacific routes
+to reduce fuel consumption and emissions:
+
+Speed       | Fuel/day  | Transit Days | Total Fuel | CO2/TEU
+------------|-----------|--------------|------------|--------
+22 kts      | 320 t/day | 11 days      | 3,520 t    | 710 kg   (full speed)
+18 kts      | 210 t/day | 13 days      | 2,730 t    | 608 kg   (moderate)
+16 kts      | 165 t/day | 15 days      | 2,475 t    | 545 kg   (slow steam)
+14 kts      | 120 t/day | 17 days      | 2,040 t    | 448 kg   (ultra slow)
+
+Standard COSCO CPX service operates at 16-17 knots (slow steaming).
+
+================================================================================
+FUEL SPECIFICATIONS
+================================================================================
+
+Primary fuel: Very Low Sulphur Fuel Oil (VLSFO)
+  Sulphur content:          ≤ 0.50% (IMO 2020 compliant)
+  Density:                  ~0.96 kg/liter
+  Energy content:           ~40.2 MJ/kg
+  CO2 emission factor:      3.151 kg CO2 per kg fuel
+                            (per IMO GHG Fourth Study, 2020)
+  Well-to-wake factor:      3.49 kg CO2e per kg fuel
+                            (including upstream fuel production)
+
+Auxiliary engines:
+  Fuel: Marine Gas Oil (MGO)
+  Consumption: ~5-8 tonnes/day
+  CO2 factor: 3.206 kg CO2 per kg MGO
+
+================================================================================
+EMISSION REDUCTION TARGETS
+================================================================================
+
+  2030 target:  40% reduction in carbon intensity vs 2008 baseline
+  2040 target:  70% reduction
+  2050 target:  Net zero emissions
+
+  Current progress (2024): 32% reduction vs 2008 baseline
+
+  Initiatives:
+    - Slow steaming program (fleet-wide since 2015)
+    - Hull and propeller optimization
+    - Air lubrication systems (on select newbuilds)
+    - LNG dual-fuel vessels (24 ordered, 8 delivered)
+    - Shore power connections at select ports
+    - Methanol-ready newbuilds under order (6 vessels)
+
+================================================================================
+  Prepared by: COSCO SHIPPING Environmental Management Department
+  Published: April 2025
+  Data verification: Lloyd's Register (independent assurance)
+================================================================================

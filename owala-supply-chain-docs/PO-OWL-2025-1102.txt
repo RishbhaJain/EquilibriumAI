@@ -1,0 +1,44 @@
+PURCHASE ORDER
+
+PO Number:    PO-OWL-2025-1102
+Date:         November 8, 2025
+Payment:      Net 15 T/T (expedited terms)
+Incoterm:     FOB Ningbo
+Currency:     USD
+
+BUYER:
+  Owala Inc.
+  3060 Sterling Circle Ste 100, Boulder CO 80301
+  Contact: Sarah Mitchell, Procurement | s.mitchell@owala.com
+
+VENDOR:
+  Zhejiang HydroSteel Vessels Co., Ltd.
+  No. 288 Yongkang Industrial Ave, Yongkang, Zhejiang 321300, China
+  Contact: Wei Liang | wliang@hydrosteelvessels.cn
+
+SHIP TO:
+  Owala Distribution Center (c/o Ryder Logistics)
+  1450 S. Milliken Ave, Ontario CA 91761
+
+Ship Date: Nov 22, 2025 | Delivery: Dec 12, 2025 | Method: Ocean FCL
+*** RUSH REORDER — HOLIDAY DEMAND ***
+
+LINE ITEMS:
+ Line | SKU           | Description                     | Qty   | Unit $  | Total
+ 1    | OWL-FS24-BLK | FreeSip 24oz Very Very Dark      | 7,000 |  $4.85  | $33,950.00
+ 2    | OWL-FS24-BLU | FreeSip 24oz Smooshed Blueberry  | 6,000 |  $4.85  | $29,100.00
+ 3    | OWL-FS32-BLK | FreeSip 32oz Very Very Dark      | 5,000 |  $5.60  | $28,000.00
+
+SUBTOTAL (18,000 units):      $91,050.00
+SGS Inspection Fee:              $950.00
+Rush/Overtime Surcharge (15%):$13,657.50
+TOTAL:                       $105,657.50
+
+Estimated: 792 cartons, ~7,700 kg gross, ~64 CBM → 1x 40'HC container
+
+Notes:
+ - URGENT: Black and Blue are selling out at Target/REI faster than projected
+ - Factory to run overtime shifts to meet Nov 22 ship date
+ - Single container, single shipment
+ - Use Maersk instead of COSCO if faster vessel available (see freight forwarder)
+ - Sarah's cell for urgent comms: (720) 555-0142

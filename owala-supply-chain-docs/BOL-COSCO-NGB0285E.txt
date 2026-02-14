@@ -1,0 +1,75 @@
+BILL OF LADING
+COSCO SHIPPING LINES CO., LTD.
+
+B/L Number:         COSU6278451280
+Booking Number:     6278451280
+Vessel / Voyage:    COSCO SHIPPING ORCHID / 0285E
+Date of Issue:      August 18, 2025
+
+SHIPPER:
+  Zhejiang HydroSteel Vessels Co., Ltd.
+  No. 288 Yongkang Industrial Ave
+  Yongkang, Zhejiang 321300, China
+
+CONSIGNEE:
+  TO ORDER OF OWALA INC.
+
+NOTIFY PARTY:
+  Owala Inc.
+  3060 Sterling Circle Ste 100
+  Boulder, CO 80301, USA
+  Attn: Sarah Mitchell | (720) 555-0142
+
+PORT OF LOADING:        Ningbo, Zhejiang, China (CNNGB)
+PORT OF DISCHARGE:      Long Beach, California, USA (USLGB)
+PLACE OF DELIVERY:      Long Beach, CA
+
+CONTAINER / SEAL:
+  Container No:     CSLU7724580
+  Type/Size:        40' High Cube (40HC)
+  Seal No:          CN2025081845
+  Tare Weight:      3,940 kg
+
+PARTICULARS FURNISHED BY SHIPPER:
+  Description:      Stainless Steel Insulated Water Bottles
+                    (FreeSip 24oz and 32oz, assorted colors)
+  HS Code:          7323.93.0085
+  No. of Packages:  654 cartons on 14 pallets
+  Gross Weight:     6,382 kg
+  Measurement:      53.3 CBM
+
+FREIGHT:
+  Freight Charges:  PREPAID
+  Ocean Freight:    $2,850.00 (40HC Ningbo→Long Beach)
+  BAF Surcharge:    $425.00
+  LSS (Low Sulphur):$180.00
+  THC Origin:       $310.00
+  THC Destination:  $385.00
+  Doc Fee:          $75.00
+  TOTAL FREIGHT:    $4,225.00
+
+VESSEL SPECIFICATIONS (COSCO Shipping Orchid):
+  IMO Number:       9783461
+  Vessel Type:      Container Ship
+  Year Built:       2018
+  Capacity:         19,100 TEU
+  Flag:             Hong Kong
+  Engine:           MAN B&W 11S90ME-C10.5 (main engine)
+  Fuel Type:        Very Low Sulphur Fuel Oil (VLSFO, 0.5% S)
+  Design Speed:     22.0 knots
+  Service Speed:    16-18 knots (slow steaming)
+
+ESTIMATED TRANSIT:
+  ETD Ningbo:       August 18, 2025
+  ETA Long Beach:   September 2, 2025
+  Transit Time:     ~15 days
+  Route:            Ningbo → Shanghai (stop) → Pacific crossing → Long Beach
+  Distance:         ~5,680 nautical miles (Ningbo to Long Beach direct)
+
+SHIPPED ON BOARD: August 18, 2025
+
+  For COSCO SHIPPING LINES CO., LTD.
+  As Agent
+
+  [Authorized Signature]
+  Ningbo Branch Office

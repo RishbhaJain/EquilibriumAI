@@ -1,0 +1,69 @@
+BILL OF LADING
+MAERSK LINE A/S
+
+B/L Number:         MAEU712849502
+Booking Number:     712849502
+Vessel / Voyage:    MAERSK EDIRNE / 249W
+Date of Issue:      November 22, 2025
+
+SHIPPER:
+  Zhejiang HydroSteel Vessels Co., Ltd.
+  No. 288 Yongkang Industrial Ave, Yongkang, Zhejiang 321300, China
+
+CONSIGNEE: TO ORDER OF OWALA INC.
+NOTIFY: Owala Inc., 3060 Sterling Circle Ste 100, Boulder CO 80301
+
+PORT OF LOADING:    Ningbo, China (CNNGB)
+PORT OF DISCHARGE:  Long Beach, CA, USA (USLGB)
+
+CONTAINER / SEAL:
+  Container No:     MSKU6634217 (40'HC)
+  Seal No:          DK2025112208
+  Tare Weight:      3,800 kg
+
+CARGO:
+  Stainless Steel Insulated Water Bottles
+  FreeSip 24oz and 32oz, assorted colors
+  Ref: INV-ZHV-25-4558 / PO-OWL-2025-1102 (RUSH ORDER)
+  792 cartons on 17 pallets
+  Gross Weight: 7,712 kg
+  Volume: 64.9 CBM
+
+FREIGHT (PREPAID):
+  Ocean Freight (40HC):     $3,200.00
+  Peak Season Surcharge:    $450.00
+  BAF:                      $520.00
+  Low Sulphur Surcharge:    $210.00
+  THC Origin (Ningbo):      $340.00
+  THC Destination (LB):     $410.00
+  Documentation Fee:        $85.00
+  TOTAL:                    $5,215.00
+
+VESSEL SPECIFICATIONS (Maersk Edirne):
+  IMO Number:       9838045
+  Vessel Type:      Container Ship
+  Year Built:       2023
+  Capacity:         15,282 TEU
+  Flag:             Denmark
+  Engine Type:      MAN B&W 8G95ME-C10.5-GI (dual fuel capable)
+  Primary Fuel:     VLSFO (0.5% sulphur content)
+  Secondary Fuel:   LNG capable (not used this voyage)
+  Design Speed:     22.5 knots
+  Service Speed:    18-19 knots (express service)
+
+TRANSIT DETAILS:
+  ETD Ningbo:       November 22, 2025
+  ETA Long Beach:   December 3, 2025
+  Transit Time:     11 days (express routing — no Shanghai stop)
+  Distance:         ~5,580 nautical miles (direct routing)
+
+NOTE: Express service selected per shipper request for holiday rush.
+Higher service speed (18-19 kts vs 16-17 kts slow steaming) results in
+approximately 15-20% higher fuel consumption per TEU-mile compared to
+standard COSCO service on this route.
+
+SHIPPED ON BOARD: November 22, 2025
+
+  For MAERSK LINE A/S
+  As Agent
+  Ningbo Office

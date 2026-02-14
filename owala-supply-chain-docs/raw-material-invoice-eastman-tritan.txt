@@ -1,0 +1,88 @@
+EASTMAN CHEMICAL COMPANY
+COMMERCIAL INVOICE / PACKING LIST
+
+Invoice Number:   EC-EXP-2025-081744
+Date:             June 28, 2025
+Customer PO:      ZHV-RM-2025-0088
+
+SELLER:
+  Eastman Chemical Company
+  200 South Wilcox Drive
+  Kingsport, Tennessee 37660, USA
+  Contact: James Thornton, Export Sales
+  james.thornton@eastman.com | +1 (423) 229-2000
+
+BUYER:
+  Zhejiang HydroSteel Vessels Co., Ltd.
+  No. 288 Yongkang Industrial Ave
+  Yongkang, Zhejiang Province 321300, China
+
+SHIP TO:
+  Zhejiang HydroSteel Vessels Co., Ltd.
+  (via Ningbo port, then inland trucking to Yongkang)
+
+INCOTERM: CIF Ningbo
+PAYMENT: 60 days from B/L date
+
+SHIPMENT DETAILS:
+  Origin:         Kingsport, TN → trucked to Port of Savannah, GA (~520 miles)
+  Ocean Route:    Savannah, GA → Ningbo, China (via Suez Canal)
+  Carrier:        Evergreen Marine Corp — Ever Ace / Voyage 1185E
+  Container:      EGHU4512339 (20' standard)
+  Transit Time:   ~32 days
+
+LINE ITEMS:
+
+ 1. Eastman Tritan™ Copolyester Resin — TX1001
+    Grade:          Food Contact (FDA, EU 10/2011 compliant)
+    Form:           Pellets, 25kg bags on pallets
+    Color:          Natural (clear)
+    Quantity:       4,200 kg (168 bags)
+    Unit Price:     $4.25 / kg
+    Line Total:     $17,850.00
+
+ 2. Eastman Tritan™ Copolyester Resin — TX2001
+    Grade:          Food Contact, impact modified
+    Form:           Pellets, 25kg bags
+    Color:          Natural (clear)
+    Quantity:       1,800 kg (72 bags)
+    Unit Price:     $4.60 / kg
+    Line Total:     $8,280.00
+
+TOTAL QUANTITY:   6,000 kg (6.0 metric tons, 240 bags)
+SUBTOTAL:         $26,130.00
+Ocean Freight:    $1,450.00 (included in CIF)
+Insurance:        $185.00
+TOTAL CIF NINGBO: $27,765.00
+
+GROSS WEIGHT:     6,240 kg (incl. packaging)
+NET WEIGHT:       6,000 kg
+VOLUME:           8.4 CBM
+
+ESTIMATED SCHEDULE:
+  Truck pickup Kingsport:   July 2, 2025
+  Arrive Savannah port:     July 4, 2025
+  Vessel ETD Savannah:      July 8, 2025
+  Vessel ETA Ningbo:        August 9, 2025
+  Inland delivery Yongkang: August 12, 2025
+
+PRODUCTION NOTE:
+  6,000 kg of Tritan resin is sufficient for approximately 150,000 lid
+  assemblies (at ~38-42g per lid). This covers Owala production for
+  PO-OWL-2025-0847, 0923, 1015, and partial 1102.
+
+SUSTAINABILITY DATA (from Eastman 2024 Sustainability Report):
+  - Tritan production facility: Kingsport, TN (coal + natural gas powered)
+  - Eastman reports Scope 1+2 emissions of 4.8 million metric tons CO2e
+    across all global operations (2024)
+  - Kingsport site specifically: ~3.2 million MT CO2e
+  - Estimated carbon intensity for Tritan production: ~3.8 kg CO2e per kg resin
+  - Eastman has committed to carbon neutrality by 2050
+  - Tritan contains no BPA, BPS, or phthalates
+
+HS CODE: 3907.69.0000 (polyesters in primary forms)
+COUNTRY OF ORIGIN: United States of America
+
+  Certified true and correct,
+  James Thornton
+  Eastman Chemical Company

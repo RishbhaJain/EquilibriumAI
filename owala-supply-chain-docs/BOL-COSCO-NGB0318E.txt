@@ -1,0 +1,39 @@
+BILL OF LADING
+COSCO SHIPPING LINES CO., LTD.
+
+B/L Number:         COSU6295887102
+Booking Number:     6295887102
+Vessel / Voyage:    COSCO SHIPPING JASMINE / 0318E
+Date of Issue:      October 6, 2025
+
+SHIPPER:
+  Zhejiang HydroSteel Vessels Co., Ltd.
+  Yongkang, Zhejiang 321300, China
+
+CONSIGNEE: TO ORDER OF OWALA INC.
+NOTIFY: Owala Inc., Boulder CO 80301
+
+PORT OF LOADING:    Ningbo, China
+PORT OF DISCHARGE:  Long Beach, CA, USA
+
+CONTAINER / SEAL:
+  Container No:     TEMU4456721
+  Type/Size:        40'HC
+  Seal No:          CN2025100622
+
+CARGO:
+  Stainless Steel Insulated Water Bottles (FreeSip, assorted)
+  Ref: INV-ZHV-25-4460 / PO-OWL-2025-0923 (Shipment 2 of 2)
+  463 cartons on 10 pallets
+  Gross Weight: 4,423 kg
+  Volume: 39.7 CBM
+
+FREIGHT (PREPAID):
+  Ocean Freight:    $2,850.00
+  BAF + LSS:        $605.00
+  THC (O+D):        $695.00
+  Doc Fee:          $75.00
+  TOTAL:            $4,225.00
+
+VESSEL: COSCO Shipping Jasmine | IMO 9783485 | 19,100 TEU | VLSFO
+ETD: Oct 6, 2025 | ETA: Oct 21, 2025 | Transit: ~15 days
