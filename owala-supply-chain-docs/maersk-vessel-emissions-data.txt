@@ -1,0 +1,48 @@
+MAERSK LINE A/S
+VESSEL CARBON EMISSIONS DATA — MAERSK EDIRNE
+
+Vessel Name:        Maersk Edirne
+IMO Number:         9838045
+Flag:               Denmark (DIS)
+Year Built:         2023
+Class:              Neo-Panamax
+Capacity:           15,282 TEU
+DWT:                150,200
+LOA:                366 m
+Beam:               51 m
+Main Engine:        MAN B&W 8G95ME-C10.5-GI (dual fuel, LNG capable)
+MCR:                52,650 kW
+Design Speed:       22.5 knots
+
+EMISSIONS DATA (per Maersk ECO Delivery methodology):
+
+Standard service (16-17 kts slow steaming):
+  Daily fuel consumption:       155 tonnes VLSFO
+  Fuel per TEU-km (laden):      52 g/TEU-km
+  CO2 per TEU (Trans-Pacific):  ~590 kg CO2 per TEU
+
+Express service (18-19 kts):
+  Daily fuel consumption:       225 tonnes VLSFO
+  Fuel per TEU-km:              68 g/TEU-km
+  CO2 per TEU (Trans-Pacific):  ~780 kg CO2 per TEU
+
+Voyage 249W (Ningbo → Long Beach, Nov 22 - Dec 3, 2025):
+  Service speed:                18.5 knots (express)
+  Transit time:                 11 days
+  Fuel consumed (est):          2,475 tonnes VLSFO
+  Total voyage CO2:             ~7,800 tonnes CO2
+  CO2 per TEU:                  ~765 kg (at 85% utilization)
+  CO2 per 40'HC container:     ~1,530 kg CO2
+
+Note: Express service on this voyage consumed approximately 28% more
+fuel per TEU-mile compared to slow steaming, per shipper (Owala)
+request for expedited holiday delivery.
+
+CII Rating 2024: B
+EEDI: 11.2 g CO2 / tonne-mile (verified)
+
+Maersk reports all vessel emissions via the Clean Cargo Working Group
+methodology and provides shipment-level CO2 data upon customer request.
+
+Source: Maersk Emissions Dashboard & Star Connect platform
+Updated: December 2025

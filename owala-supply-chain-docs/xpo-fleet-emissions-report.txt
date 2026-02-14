@@ -1,0 +1,118 @@
+XPO LOGISTICS, INC.
+FLEET EMISSIONS & VEHICLE SPECIFICATIONS — SOUTHERN CALIFORNIA DRAYAGE
+
+Report Period:    2024
+Prepared for:     Customer Sustainability Reporting (Scope 3 upstream transportation)
+Region:           Los Angeles / Long Beach / Inland Empire
+
+================================================================================
+FLEET COMPOSITION — LA/LB PORT DRAYAGE DIVISION
+================================================================================
+
+Total vehicles in LA/LB drayage fleet: 184
+
+Vehicle Type              | Count | Fuel      | Model Year Range | Avg MPG
+--------------------------|-------|-----------|------------------|--------
+Freightliner Cascadia     |  72   | Diesel    | 2019-2023        | 5.8
+Kenworth T680             |  45   | Diesel    | 2020-2024        | 5.6
+Peterbilt 579             |  28   | Diesel    | 2018-2022        | 5.4
+Volvo VNR                 |  14   | Diesel    | 2021-2023        | 5.9
+Freightliner eCascadia    |  18   | Electric  | 2023-2024        | N/A
+BYD 8TT                   |   7   | Electric  | 2024             | N/A
+
+All diesel vehicles: CARB compliant, EPA 2010+ emission standards
+All diesel fuel: Ultra-Low Sulfur Diesel (ULSD, ≤15 ppm sulfur)
+
+================================================================================
+DIESEL VEHICLE EMISSION FACTORS
+================================================================================
+
+Class 8 Drayage Truck (typical port-to-warehouse run):
+
+  Loaded (with container, ~20,000-44,000 lbs gross):
+    Fuel consumption:     5.0 — 6.5 MPG (varies by weight, traffic, route)
+    Fleet average:        5.5 MPG loaded
+    CO2 per mile:         1.845 kg CO2 / mile
+                          (= 10.15 kg/gal ÷ 5.5 MPG)
+    Per km:               1.146 kg CO2 / km
+
+  Empty (returning chassis, no container):
+    Fuel consumption:     6.5 — 8.0 MPG
+    Fleet average:        7.0 MPG empty
+    CO2 per mile:         1.450 kg CO2 / mile
+    Per km:               0.901 kg CO2 / km
+
+  Round trip factor (loaded + empty return):
+    Average per loaded-mile: 3.295 kg CO2 / loaded-mile
+    (assumes equal distance loaded and empty)
+
+Long Beach → Ontario DC route:
+  Distance:               55 miles (one way), 110 miles round trip
+  Loaded trip CO2:        55 × 1.845 = 101.5 kg CO2
+  Empty return CO2:       55 × 1.450 = 79.8 kg CO2
+  ROUND TRIP TOTAL:       181.3 kg CO2 per container move
+
+================================================================================
+ELECTRIC VEHICLE DATA
+================================================================================
+
+Freightliner eCascadia:
+  Battery:                438 kWh (usable)
+  Range:                  155-230 miles (load dependent)
+  Energy consumption:     1.0 — 1.3 kWh/mile (loaded drayage)
+  Fleet average:          1.1 kWh/mile (loaded), 0.8 kWh/mile (empty)
+
+  Round trip (110 miles):
+    Energy:               55 × 1.1 + 55 × 0.8 = 104.5 kWh
+    CO2 (CAISO grid):     104.5 × 0.22 = 23.0 kg CO2e
+    Savings vs diesel:    87.3% reduction
+
+BYD 8TT:
+  Battery:                409 kWh
+  Range:                  125-200 miles
+  Energy consumption:     1.2 kWh/mile (loaded)
+  Round trip CO2:         ~25 kg CO2e (CAISO grid)
+
+================================================================================
+FLEET-LEVEL EMISSIONS — 2024
+================================================================================
+
+Total drayage moves (2024):               148,200
+  Diesel moves:                           127,400 (86%)
+  Electric moves:                          20,800 (14%)
+
+Total fleet CO2 (2024):
+  Diesel:          127,400 × 181.3 kg = 23,098 tonnes CO2
+  Electric:         20,800 × 24 kg   =     499 tonnes CO2e
+  TOTAL:                                23,597 tonnes CO2e
+
+Fleet average per container move:         159.2 kg CO2e
+  (blended diesel + EV)
+
+Average distance per move:                48 miles (fleet-wide)
+CO2 per tonne-mile:                       ~82 g CO2e / tonne-mile
+
+================================================================================
+EMISSION REDUCTION TARGETS
+================================================================================
+
+  2025: 20% EV fleet share (on track)
+  2028: 50% EV fleet share
+  2030: 80% EV fleet share (aligned with CARB Advanced Clean Fleets rule)
+  2035: 100% zero-emission drayage fleet (LA/LB ports)
+
+  XPO has invested $42 million in EV infrastructure at its LA/LB terminals,
+  including 85 DC fast chargers (150-350 kW).
+
+================================================================================
+METHODOLOGY & SOURCES
+================================================================================
+
+  - Fuel consumption based on fleet telematics data (Geotab)
+  - CO2 factors per EPA Emission Factors Hub (2024)
+  - EV energy consumption per vehicle OBD data
+  - Grid emission factor per CAISO annual average (2024)
+  - Verified by SmartWay Transport Partnership (EPA SmartWay ID: XPO-2211)
+
+  Contact: sustainability@xpo.com
+  Report prepared: February 2025

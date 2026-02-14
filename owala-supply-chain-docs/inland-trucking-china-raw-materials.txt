@@ -1,0 +1,166 @@
+YONGKANG LIANHE TRANSPORT CO., LTD.
+永康联合运输有限公司
+
+FREIGHT INVOICES — INLAND TRUCKING SERVICES (CHINA)
+Customer: Zhejiang HydroSteel Vessels Co., Ltd.
+Period: July — November 2025
+
+================================================================================
+This company provides all inland trucking for HydroSteel's inbound raw
+materials and outbound finished goods within China.
+================================================================================
+
+--- INVOICE LH-2025-0712 ---
+Date:           July 10, 2025
+Route:          Baosteel Baoshan (Shanghai) → HydroSteel factory (Yongkang)
+Cargo:          Stainless steel coils, 32.7 metric tons
+                Ref: Baosteel Contract BST-YK-2025-07182
+Distance:       360 km (G60 Shanghai-Kunming Expressway)
+Vehicle:        FAW Jiefang J7, 6x4 tractor + flatbed trailer
+                License: 浙G-T8826
+                GVW: 49 tons (loaded)
+Fuel type:      Diesel (China VI standard, 0#)
+Fuel consumed:  138 liters (38.3 L/100km loaded)
+Freight charge: RMB 4,800
+
+--- INVOICE LH-2025-0713 ---
+Date:           July 12, 2025
+Route:          Dongguan SinoSeal → HydroSteel factory (Yongkang)
+Cargo:          Silicone components, 1.82 metric tons + 0.46 tons packaging
+                Ref: SinoSeal Invoice SS-2025-06334
+Distance:       980 km (G15 / G60)
+Vehicle:        Dongfeng Tianlong KL, 4x2 medium truck
+                License: 粤S-D5519
+                GVW: 18 tons (loaded ~12 tons)
+Fuel type:      Diesel
+Fuel consumed:  274 liters (28.0 L/100km)
+Freight charge: RMB 3,200
+
+--- INVOICE LH-2025-0720 ---
+Date:           July 20, 2025
+Route:          Shenzhen GreenPack → HydroSteel factory (Yongkang)
+Cargo:          Retail packaging boxes, 5.65 metric tons
+                Ref: GreenPack Invoice GP-2025-07-0892
+Distance:       1,150 km (G15 Shenhai Expressway)
+Vehicle:        Dongfeng Tianlong KL, 4x2 medium truck
+                License: 粤S-D5519
+Fuel type:      Diesel
+Fuel consumed:  345 liters (30.0 L/100km)
+Freight charge: RMB 4,500
+
+--- INVOICE LH-2025-0818 ---
+Date:           August 18, 2025
+Route:          HydroSteel factory (Yongkang) → Ningbo Port
+Cargo:          1x 40'HC container (CSLU7724580) — PO-OWL-2025-0847
+                Finished goods, 6,382 kg + container tare
+Distance:       190 km (S28 / G1512)
+Vehicle:        FAW Jiefang J7, 6x4 tractor + container chassis
+                License: 浙G-T8826
+Fuel consumed:  66.5 liters (35 L/100km loaded)
+Freight charge: RMB 2,800
+
+--- INVOICE LH-2025-0925 ---
+Date:           September 25, 2025
+Route:          Yongkang → Ningbo Port
+Cargo:          1x 40'HC (CSLU8891234) — INV-ZHV-25-4455
+Distance:       190 km
+Fuel consumed:  66.5 liters
+Freight charge: RMB 2,800
+
+--- INVOICE LH-2025-1003 ---
+Date:           October 3, 2025
+Route:          Baosteel (Shanghai) → HydroSteel (Yongkang)
+Cargo:          Stainless steel coils, 43.5 metric tons
+                Ref: Baosteel Contract BST-YK-2025-09445
+Distance:       360 km
+Vehicle:        2x FAW Jiefang J7 (load split across 2 trucks)
+Fuel consumed:  2 × 145 = 290 liters (higher load)
+Freight charge: RMB 8,400
+
+--- INVOICE LH-2025-1006 ---
+Date:           October 6, 2025
+Route:          Yongkang → Ningbo Port
+Cargo:          1x 40'HC (TEMU4456721) — INV-ZHV-25-4460
+Distance:       190 km
+Fuel consumed:  66.5 liters
+Freight charge: RMB 2,800
+
+--- INVOICE LH-2025-1015 ---
+Date:           October 15, 2025
+Route:          Dongguan SinoSeal → Yongkang
+Cargo:          Silicone reorder, ~1.1 metric tons
+                Ref: SinoSeal Invoice SS-2025-10118
+Distance:       980 km
+Vehicle:        Dongfeng medium truck
+Fuel consumed:  265 liters
+Freight charge: RMB 3,000
+
+--- INVOICE LH-2025-1101 ---
+Date:           November 1, 2025
+Route:          Yongkang → Ningbo Port
+Cargo:          2x 40'HC containers (CSLU9012345 + CSLU9012388)
+                INV-ZHV-25-4512 — PO-OWL-2025-1015 Shipment 1
+Distance:       190 km × 2 trips (same day, 2 trucks)
+Fuel consumed:  133 liters (2 × 66.5)
+Freight charge: RMB 5,600
+
+--- INVOICE LH-2025-1108 ---
+Date:           November 8, 2025
+Route:          Yongkang → Ningbo Port
+Cargo:          1x 40'HC (OOLU3378291) — INV-ZHV-25-4530
+Distance:       190 km
+Fuel consumed:  66.5 liters
+Freight charge: RMB 2,800
+
+--- INVOICE LH-2025-1120 ---
+Date:           September 28, 2025
+Route:          Shenzhen GreenPack → Yongkang
+Cargo:          Packaging reorder, ~4.2 metric tons
+                Ref: GP-2025-09-1244
+Distance:       1,150 km
+Fuel consumed:  330 liters
+Freight charge: RMB 4,200
+
+--- INVOICE LH-2025-1122 ---
+Date:           November 22, 2025
+Route:          Yongkang → Ningbo Port
+Cargo:          1x 40'HC (MSKU6634217) — INV-ZHV-25-4558 (RUSH)
+Distance:       190 km
+Fuel consumed:  66.5 liters
+Freight charge: RMB 3,500 (rush surcharge)
+
+================================================================================
+SUMMARY — ALL INLAND TRUCKING (Jul-Nov 2025)
+================================================================================
+
+Total invoices:          12
+Total freight charges:   RMB 48,400 (~USD $6,670)
+
+Total distance (all trips):
+  Raw materials inbound:    ~5,220 km
+  Finished goods to port:   ~1,330 km (7 port trips)
+  TOTAL:                    ~6,550 km
+
+Total diesel consumed:       ~1,908 liters
+
+Total CO2 emissions:
+  1,908 liters × 2.68 kg CO2/L = ~5,113 kg CO2 (5.1 tonnes)
+
+VEHICLE FLEET:
+  Heavy-duty (FAW Jiefang J7): Diesel, China VI
+    Fuel efficiency loaded: 35-38 L/100km
+    Fuel efficiency empty return: 22-25 L/100km
+    (empty returns not billed but emissions still occur)
+    Estimated empty return fuel: ~1,050 liters additional
+    Empty return CO2: ~2,814 kg
+
+  Medium-duty (Dongfeng Tianlong KL): Diesel, China VI
+    Fuel efficiency loaded: 28-30 L/100km
+    Empty return: 18-20 L/100km
+
+TOTAL INLAND TRUCKING EMISSIONS (incl. empty returns):
+  ~7,927 kg CO2 (7.9 tonnes)
+
+================================================================================
+Contact: Manager Zhou | zhou@lianhe-transport.cn | +86 579 8766 2200
+================================================================================

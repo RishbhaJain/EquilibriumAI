@@ -1,0 +1,141 @@
+XPO LOGISTICS, INC.
+FREIGHT INVOICE — DRAYAGE & INTERMODAL SERVICES
+
+================================================================================
+Account: Owala Inc. (Customer #OWL-82441)
+Billing Address: 3060 Sterling Circle Ste 100, Boulder CO 80301
+Service Region: Southern California — Port of Long Beach to Inland Empire
+================================================================================
+
+--- INVOICE 1 ---
+
+Invoice No:     XPO-LA-2025-88412
+Date:           September 3, 2025
+PO Ref:         PO-OWL-2025-0847
+
+Service:        Container Drayage
+Origin:         Port of Long Beach, Pier J (COSCO Terminal)
+Destination:    Owala DC / Ryder Logistics, 1450 S. Milliken Ave, Ontario CA 91761
+Distance:       55 miles (one-way)
+
+Container:      CSLU7724580 (40'HC)
+Gross Weight:   6,382 kg + 3,940 kg tare = 10,322 kg (22,752 lbs)
+
+Equipment:      Day cab tractor + container chassis
+Vehicle:        Freightliner Cascadia (2022), Class 8
+Fuel Type:      Diesel (CARB Ultra-Low Sulfur Diesel)
+Driver:         R. Hernandez (CDL #CA-D4428816)
+
+Pickup:         Sep 2, 2025, 06:15 AM (gate out Long Beach)
+Delivery:       Sep 2, 2025, 08:42 AM (dock arrival Ontario)
+Transit Time:   2 hrs 27 min (incl. port queue)
+
+Charges:
+  Drayage (port to Ontario):           $485.00
+  Fuel surcharge (18%):                 $87.30
+  Port congestion surcharge:            $45.00
+  Chassis usage (per day):              $65.00
+  Container return (empty, to port):   $325.00
+  TOTAL:                             $1,007.30
+
+--- INVOICE 2 ---
+
+Invoice No:     XPO-LA-2025-91003
+Date:           October 11, 2025
+PO Ref:         PO-OWL-2025-0923 (Shipment 1)
+
+Container:      CSLU8891234 (40'HC) — 5,201 kg cargo
+Same route:     Long Beach → Ontario DC (55 miles)
+Vehicle:        Freightliner Cascadia (2021), Class 8, Diesel
+
+Pickup: Oct 11, 2025, 07:30 AM | Delivery: Oct 11, 2025, 09:15 AM
+
+  Drayage:             $485.00
+  Fuel surcharge (18%): $87.30
+  Chassis + return:    $390.00
+  TOTAL:               $962.30
+
+--- INVOICE 3 ---
+
+Invoice No:     XPO-LA-2025-93218
+Date:           October 22, 2025
+PO Ref:         PO-OWL-2025-0923 (Shipment 2)
+
+Container:      TEMU4456721 (40'HC) — 4,423 kg cargo
+Route:          Long Beach → Ontario DC (55 miles)
+Vehicle:        Kenworth T680 (2023), Class 8, Diesel
+
+  Drayage:             $485.00
+  Fuel surcharge (18%): $87.30
+  Chassis + return:    $390.00
+  TOTAL:               $962.30
+
+--- INVOICE 4 ---
+
+Invoice No:     XPO-LA-2025-97501
+Date:           November 17, 2025
+PO Ref:         PO-OWL-2025-1015 (Shipment 1)
+
+Containers:     CSLU9012345 + CSLU9012388 (2x 40'HC) — 8,892 kg total
+Route:          Long Beach → Ontario DC (55 miles each)
+Vehicles:       2x Freightliner Cascadia, Class 8, Diesel
+NOTE:           Two containers delivered same day, separate trips
+
+  Drayage (2 containers):       $970.00
+  Fuel surcharge (18%):         $174.60
+  Chassis usage (2x):           $130.00
+  Container return (2x):        $650.00
+  TOTAL:                      $1,924.60
+
+--- INVOICE 5 ---
+
+Invoice No:     XPO-LA-2025-99887
+Date:           November 24, 2025
+PO Ref:         PO-OWL-2025-1015 (Shipment 2)
+
+Container:      OOLU3378291 (40'HC) — 6,585 kg cargo
+Route:          Long Beach → Ontario DC (55 miles)
+
+  Drayage + surcharges + chassis/return:
+  TOTAL:               $962.30
+
+--- INVOICE 6 ---
+
+Invoice No:     XPO-LA-2025-101445
+Date:           December 4, 2025
+PO Ref:         PO-OWL-2025-1102 (RUSH)
+
+Container:      MSKU6634217 (40'HC) — 7,712 kg cargo
+Route:          Long Beach → Ontario DC (55 miles)
+Vehicle:        Freightliner eCascadia (2024), Class 8
+*** ELECTRIC VEHICLE — ZERO TAILPIPE EMISSIONS ***
+
+Pickup: Dec 3, 2025, 04:00 PM | Delivery: Dec 3, 2025, 06:10 PM
+(Priority afternoon slot per Owala request)
+
+  Drayage (EV premium):         $575.00
+  Port congestion:               $45.00
+  Chassis + return:             $390.00
+  TOTAL:                       $1,010.00
+
+================================================================================
+SUMMARY — ALL DRAYAGE Q3-Q4 2025
+================================================================================
+
+Total containers drayed:    7
+Total invoiced:             $6,828.80
+Total distance (loaded):    385 miles (7 trips × 55 mi)
+Total distance (empty return): 385 miles
+
+Fuel consumption estimates (diesel trucks only, 6 of 7 trips):
+  Class 8 drayage truck avg: 5.5 MPG (loaded), 7.0 MPG (empty)
+  Loaded: 330 miles ÷ 5.5 = 60.0 gallons diesel
+  Empty:  330 miles ÷ 7.0 = 47.1 gallons diesel
+  Total diesel: ~107 gallons = ~405 liters
+  CO2 emissions: 405 L × 2.68 kg/L = ~1,085 kg CO2
+
+  EV trip (Invoice 6): Zero tailpipe. Grid electricity ~0.22 kg CO2/kWh (CAISO avg)
+  eCascadia consumption: ~1.1 kWh/mile × 110 miles round trip = 121 kWh
+  Grid CO2: 121 × 0.22 = ~27 kg CO2e
+
+Total drayage emissions (all 7 trips): ~1,112 kg CO2e

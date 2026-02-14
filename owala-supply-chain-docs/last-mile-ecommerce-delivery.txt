@@ -1,0 +1,85 @@
+AMAZON LOGISTICS / FEDEX / UPS
+LAST-MILE DELIVERY EMISSIONS — OWALA DIRECT-TO-CONSUMER & E-COMMERCE
+
+================================================================================
+This document consolidates last-mile delivery data for Owala FreeSip bottles
+sold through e-commerce channels (Amazon, owala.com, Target.com, REI.com)
+during Q3-Q4 2025.
+================================================================================
+
+CHANNEL BREAKDOWN — E-COMMERCE UNITS SHIPPED (Q3-Q4 2025):
+
+Channel              | Units  | Avg Package Wt | Avg Delivery Distance
+---------------------|--------|----------------|----------------------
+Amazon (FBA)         | 12,400 | 0.62 kg        | 8.2 miles (avg last-mile)
+Owala.com (DTC)      |  3,200 | 0.68 kg        | 620 miles (avg ship dist)
+Target.com (ship)    |  2,100 | 0.65 kg        | 185 miles (from store/DC)
+REI.com              |    800 | 0.66 kg        | 340 miles (from DC)
+
+TOTAL E-COMMERCE:    18,500 units
+
+================================================================================
+LAST-MILE EMISSION FACTORS
+================================================================================
+
+Amazon Logistics (AMZL):
+  Fleet mix (2024): 65% diesel vans, 20% Rivian EV, 15% flex/contractor
+  Avg emissions per package (US, 2024): 0.408 kg CO2e
+  Source: Amazon 2024 Sustainability Report
+
+  For Owala packages (heavier than average, 0.62 kg vs 0.35 kg avg):
+  Weight-adjusted factor: ~0.52 kg CO2e per package
+
+FedEx Ground (Owala.com DTC shipments):
+  Avg emissions per package (US):  0.68 kg CO2e (ground, avg distance)
+  For avg 620-mile shipment:       1.12 kg CO2e per package
+  Source: FedEx 2024 ESG Report, SmartWay data
+
+UPS Ground (some Owala.com shipments):
+  Avg emissions per package:       0.72 kg CO2e
+  For avg 500-mile shipment:       1.05 kg CO2e per package
+  Source: UPS 2024 ESG Report
+
+Target Shipt / last-mile:
+  Store-to-door: 0.45 kg CO2e (short distance, pooled delivery)
+  DC-to-door:    0.85 kg CO2e (regional)
+
+REI Ship-from-DC:
+  Avg: 0.92 kg CO2e per package
+
+================================================================================
+ESTIMATED LAST-MILE EMISSIONS (Q3-Q4 2025)
+================================================================================
+
+Amazon FBA:      12,400 × 0.52  =  6,448 kg CO2e
+Owala.com DTC:    3,200 × 1.12  =  3,584 kg CO2e
+Target.com:       2,100 × 0.85  =  1,785 kg CO2e
+REI.com:            800 × 0.92  =    736 kg CO2e
+
+TOTAL LAST-MILE EMISSIONS:        12,553 kg CO2e (12.6 tonnes)
+
+Per unit (e-commerce only):        0.678 kg CO2e per bottle
+
+================================================================================
+PACKAGING FOR E-COMMERCE (additional)
+================================================================================
+
+E-commerce orders require additional outer shipping packaging:
+
+  Amazon FBA: Poly mailer or corrugated shipper box
+    Weight: ~85g per package
+    Material: Corrugated or recycled poly
+    Emissions from packaging production: ~0.05 kg CO2e per package
+
+  DTC (Owala.com): Branded corrugated shipper
+    Weight: ~120g
+    Emissions: ~0.07 kg CO2e per package
+
+  Total e-commerce packaging emissions: ~1,050 kg CO2e
+
+================================================================================
+NOTE: 70,900 units sold through brick-and-mortar retail (Target, REI,
+Dick's, Walmart, Costco, Nordstrom) — last-mile from store to consumer
+is by personal vehicle and not included in Owala's Scope 3.
+Only the DC-to-store leg is counted (see distribution-dc-to-retail.txt).
+================================================================================

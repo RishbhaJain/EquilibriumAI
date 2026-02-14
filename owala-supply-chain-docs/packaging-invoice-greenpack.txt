@@ -1,0 +1,94 @@
+SHENZHEN GREENPACK PRINTING CO., LTD.
+深圳绿色包装印刷有限公司
+
+COMMERCIAL INVOICE
+
+Invoice No:     GP-2025-07-0892
+Date:           July 2, 2025
+Customer Ref:   ZHV-PKG-2025-H2
+
+SELLER:
+  Shenzhen GreenPack Printing Co., Ltd.
+  Building 8, Longgang Printing Industrial Park
+  Longgang District, Shenzhen, Guangdong 518116, China
+  Contact: Mr. Huang Weijie | huang.wj@greenpack-sz.com
+  Tel: +86 755 8489 3300
+
+BUYER:
+  Zhejiang HydroSteel Vessels Co., Ltd.
+  Yongkang, Zhejiang 321300, China
+
+DELIVERY: FOB Shenzhen (buyer arranges freight)
+TRANSPORT: Trucking Shenzhen → Yongkang (~1,150 km, ~16 hrs)
+PAYMENT: Net 45
+
+--- ORDER 1 (for Q3 production) ---
+
+LINE ITEMS:
+ Item | Description                                  | Qty     | Unit ¥  | Total ¥
+ 1    | FreeSip 24oz retail box — Black               | 20,000  |  1.45   | 29,000
+ 2    | FreeSip 24oz retail box — Sage                | 10,000  |  1.45   | 14,500
+ 3    | FreeSip 24oz retail box — Smooshed Blueberry  | 12,000  |  1.45   | 17,400
+ 4    | FreeSip 24oz retail box — Lilac Purple        |  8,000  |  1.45   | 11,600
+ 5    | FreeSip 24oz retail box — Hyper Flamingo      |  5,000  |  1.45   |  7,250
+ 6    | FreeSip 32oz retail box — Black               | 12,000  |  1.65   | 19,800
+ 7    | FreeSip 32oz retail box — Sage                |  8,000  |  1.65   | 13,200
+ 8    | FreeSip 32oz retail box — Lilac Purple        |  5,000  |  1.65   |  8,250
+
+TOTAL BOXES:     80,000
+SUBTOTAL:        RMB 121,000.00
+VAT (13%):       RMB 15,730.00
+TOTAL:           RMB 136,730.00 (~USD $18,830)
+
+BOX SPECIFICATIONS:
+  Material:       Recycled corrugated cardboard, E-flute
+  Certification:  FSC-C123456 (Forest Stewardship Council)
+  Print:          4-color offset, soy-based inks
+  Finish:         Matte lamination (exterior)
+  Recycled content: 85% post-consumer recycled fiber
+  Weight:         62g per box (24oz) / 71g per box (32oz)
+
+TOTAL PACKAGING WEIGHT: 5,645 kg
+  24oz boxes: 55,000 × 0.062 kg = 3,410 kg
+  32oz boxes: 25,000 × 0.071 kg = 1,775 kg
+  Cartons/palletizing: ~460 kg
+
+SHIPPING DETAILS:
+  30 pallets, shrink-wrapped
+  Truck: Medium-duty (Foton Auman, 12-ton capacity)
+  Route: Shenzhen → Yongkang via G15 coastal expressway
+  Distance: ~1,150 km
+  Fuel consumption: ~30 L diesel / 100 km
+  Estimated fuel: 345 liters diesel
+  CO2: 345 × 2.68 = ~925 kg CO2
+
+--- ORDER 2 (supplemental for Q4 holiday) ---
+
+Invoice No:     GP-2025-09-1244
+Date:           September 18, 2025
+
+  Additional 60,000 retail boxes (mixed SKUs incl. new Tangerine Dream)
+  TOTAL: RMB 95,850 + VAT = RMB 108,310
+  Same delivery route, same vehicle type
+  Estimated trucking CO2: ~925 kg
+
+--- ORDER 3 (rush for PO-1102) ---
+
+Invoice No:     GP-2025-10-1518
+Date:           October 28, 2025
+
+  20,000 retail boxes (Black 24oz, Blue 24oz, Black 32oz only)
+  TOTAL: RMB 30,200 + VAT = RMB 34,126
+  Express delivery (2-day guarantee)
+
+================================================================================
+GREENPACK FACILITY DATA (for sustainability reporting):
+  Factory size: 6,200 sqm
+  Employees: 85
+  Annual output: ~45 million boxes/year
+  Monthly electricity: ~62,000 kWh (Guangdong grid: 0.498 kg CO2/kWh)
+  Printing press: Heidelberg Speedmaster (4-color)
+  Die-cutting: 2x Bobst automatic die-cutters
+  Annual emissions (est.): ~370 tonnes CO2e (Scope 1+2)
+  Carbon intensity: ~0.008 kg CO2e per retail box
+================================================================================

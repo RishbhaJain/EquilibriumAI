@@ -1,0 +1,104 @@
+RYDER SYSTEM, INC.
+DISTRIBUTION & OUTBOUND LOGISTICS — OWALA INC.
+
+Facility:       Owala Distribution Center
+                1450 S. Milliken Ave, Ontario, CA 91761
+                Operated by: Ryder Integrated Logistics
+Account:        OWL-RYD-9284
+Period:         Q3 — Q4 2025 (Jul — Dec)
+
+================================================================================
+OUTBOUND SHIPMENT LOG — FREESIP WATER BOTTLES
+================================================================================
+
+Ship# | Date       | Destination                          | Units  | Weight(kg)| Miles | Carrier        | Vehicle
+------|------------|--------------------------------------|--------|-----------|-------|----------------|--------
+S-001 | Sep 10     | Target DC, Fontana CA                | 3,200  |  1,294    |   18  | Ryder dedicated| 26ft box
+S-002 | Sep 10     | Target DC, Fontana CA                | 2,800  |  1,378    |   18  | Ryder dedicated| 26ft box
+S-003 | Sep 15     | REI DC, Goodyear AZ                  | 2,400  |    971    |  355  | FedEx Freight  | LTL trailer
+S-004 | Sep 18     | Target DC, Denton TX                 | 2,000  |    809    | 1,375 | FedEx Freight  | LTL trailer
+S-005 | Sep 22     | Amazon FC ONT8, San Bernardino CA    | 1,800  |    728    |   22  | Amazon Relay   | 53ft trailer
+S-006 | Sep 25     | Dick's Sporting Goods DC, Smithton PA| 1,200  |    486    | 2,430 | XPO LTL        | LTL trailer
+S-007 | Oct 14     | Target DC, Fontana CA                | 4,000  |  1,618    |   18  | Ryder dedicated| 26ft box
+S-008 | Oct 14     | Walmart DC, Chino CA                 | 2,500  |  1,012    |   12  | Ryder dedicated| 26ft box
+S-009 | Oct 18     | Target DC, DeKalb IL                 | 3,500  |  1,577    | 1,920 | ODFL           | LTL trailer
+S-010 | Oct 22     | REI DC, Goodyear AZ                  | 2,200  |    890    |  355  | FedEx Freight  | LTL trailer
+S-011 | Oct 25     | Amazon FC LAX9, San Bernardino CA    | 3,000  |  1,214    |   22  | Amazon Relay   | 53ft trailer
+S-012 | Oct 28     | Target DC, Lacey WA                  | 2,800  |  1,133    | 1,190 | XPO LTL        | LTL trailer
+S-013 | Nov 5      | Costco Depot, Tracy CA               | 3,500  |  1,417    |  375  | Ryder dedicated| 53ft trailer
+S-014 | Nov 8      | Target DC, Fontana CA                | 5,500  |  2,226    |   18  | Ryder dedicated| 53ft trailer
+S-015 | Nov 12     | Walmart DC, Chino CA                 | 4,000  |  1,618    |   12  | Ryder dedicated| 26ft box
+S-016 | Nov 15     | Target DC, Denton TX                 | 3,200  |  1,295    | 1,375 | FedEx Freight  | LTL trailer
+S-017 | Nov 18     | REI DC, Goodyear AZ                  | 1,800  |    729    |  355  | FedEx Freight  | LTL trailer
+S-018 | Nov 20     | Amazon FC ONT8, San Bernardino CA    | 4,200  |  1,700    |   22  | Amazon Relay   | 53ft trailer
+S-019 | Nov 22     | Dick's Sporting Goods DC, Smithton PA| 2,200  |    890    | 2,430 | XPO LTL        | LTL trailer
+S-020 | Nov 25     | Target DC, DeKalb IL                 | 4,500  |  1,822    | 1,920 | ODFL           | LTL trailer
+S-021 | Nov 28     | Costco Depot, Tracy CA               | 4,000  |  1,618    |  375  | Ryder dedicated| 53ft trailer
+S-022 | Dec 1      | Target DC, Lacey WA                  | 3,000  |  1,214    | 1,190 | XPO LTL        | LTL trailer
+S-023 | Dec 4      | Target DC, Fontana CA                | 6,000  |  2,428    |   18  | Ryder dedicated| 53ft trailer
+S-024 | Dec 5      | Walmart DC, Chino CA                 | 3,500  |  1,417    |   12  | Ryder dedicated| 26ft box
+S-025 | Dec 8      | Amazon FC LAX9, San Bernardino CA    | 5,500  |  2,226    |   22  | Amazon Relay   | 53ft trailer
+S-026 | Dec 10     | REI DC, Goodyear AZ                  | 1,600  |    648    |  355  | FedEx Freight  | LTL trailer
+S-027 | Dec 12     | Target DC, Denton TX                 | 4,000  |  1,618    | 1,375 | FedEx Freight  | LTL trailer
+S-028 | Dec 14     | Nordstrom DC, Ontario CA              | 1,500  |    607    |    5  | Ryder dedicated| 26ft box
+
+TOTALS:
+  Shipments:      28
+  Total units:    89,400
+  Total weight:   34,267 kg
+  Total tonne-miles: ~21.4 million tonne-miles (estimated)
+
+================================================================================
+CARRIER EMISSION FACTORS (used for Scope 3 reporting)
+================================================================================
+
+Carrier              | Type     | Avg g CO2/tonne-mile | Source
+---------------------|----------|----------------------|---------------------------
+Ryder dedicated      | FTL      | 65                   | Ryder 2024 ESG Report
+FedEx Freight        | LTL      | 115                  | FedEx 2024 ESG Report
+XPO LTL              | LTL      | 108                  | XPO SmartWay data
+ODFL (Old Dominion)  | LTL      | 98                   | ODFL SmartWay carrier data
+Amazon Relay         | FTL      | 72                   | Amazon Climate Pledge data
+
+Note: LTL (Less-Than-Truckload) has higher per-tonne-mile emissions due to
+hub-and-spoke routing, partial loads, and intermediate handling. FTL (Full
+Truckload) is more efficient per tonne-mile for large shipments.
+
+================================================================================
+ESTIMATED OUTBOUND DISTRIBUTION EMISSIONS (Q3-Q4 2025)
+================================================================================
+
+By Carrier:
+  Ryder dedicated (local, <400 mi):  11 shipments, ~1,120 kg CO2
+  FedEx Freight (LTL, long-haul):     6 shipments, ~3,850 kg CO2
+  XPO LTL (long-haul):                3 shipments, ~2,680 kg CO2
+  ODFL (long-haul):                   2 shipments, ~5,440 kg CO2
+  Amazon Relay (local FTL):           4 shipments, ~290 kg CO2
+
+  TOTAL ESTIMATED OUTBOUND EMISSIONS: ~13,380 kg CO2e (13.4 tonnes)
+
+Per unit (89,400 units shipped):       ~0.150 kg CO2e per bottle
+  (outbound transportation only, DC to retailer)
+
+================================================================================
+WAREHOUSE OPERATIONS EMISSIONS (Ryder Ontario DC — Owala allocation)
+================================================================================
+
+Facility total emissions (2024):      2,840 tonnes CO2e
+  - Electricity (lighting, HVAC):     1,920 tonnes
+  - Natural gas (heating):            480 tonnes
+  - Forklifts (propane):              310 tonnes
+  - Yard trucks (diesel):             130 tonnes
+
+Owala share of facility (by volume):  ~8.2%
+Owala-allocated DC emissions:         ~233 tonnes CO2e / year
+  (Q3-Q4 allocation: ~117 tonnes)
+
+Per unit (89,400 units):              ~1.31 kg CO2e per bottle
+  (warehousing + handling)
+
+================================================================================
+
+Prepared by: Ryder Supply Chain Solutions — Sustainability Team
+Contact: green@ryder.com
+Date: January 2026

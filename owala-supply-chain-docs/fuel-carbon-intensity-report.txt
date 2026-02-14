@@ -1,0 +1,120 @@
+SHELL MARINE FUELS
+CARBON INTENSITY DATA SHEET — 2024/2025
+
+Prepared for: Shipping industry customers & sustainability reporting
+Document Ref: SMF-CI-2025-R3
+Date: January 2025
+
+================================================================================
+MARINE FUEL PRODUCTS — EMISSION FACTORS
+================================================================================
+
+1. VERY LOW SULPHUR FUEL OIL (VLSFO)
+   Specification:      ISO 8217:2024, RMG 380 with ≤0.50% sulphur
+   Density:            0.96 — 0.99 kg/liter (at 15°C)
+   Energy Content:     40.2 MJ/kg (LHV)
+   Carbon Content:     ~86.5%
+
+   EMISSION FACTORS:
+     Tank-to-Wake (combustion only):
+       CO2:            3.114 kg CO2 / kg fuel
+       CH4:            0.006 kg CO2e / kg fuel
+       N2O:            0.002 kg CO2e / kg fuel
+       TOTAL TtW:      3.122 kg CO2e / kg fuel
+
+     Well-to-Tank (upstream production & delivery):
+       Extraction:     0.18 kg CO2e / kg fuel
+       Refining:       0.12 kg CO2e / kg fuel
+       Transport:      0.05 kg CO2e / kg fuel
+       TOTAL WtT:      0.35 kg CO2e / kg fuel
+
+     WELL-TO-WAKE (TOTAL LIFECYCLE):
+       TOTAL WtW:      3.472 kg CO2e / kg fuel
+       Per MJ:         86.4 g CO2e / MJ
+
+2. HIGH SULPHUR FUEL OIL (HSFO) — with scrubber
+   Sulphur content:    ≤3.50%
+   Density:            0.98 — 1.01 kg/liter
+   Energy Content:     39.8 MJ/kg
+
+   TOTAL TtW:          3.151 kg CO2e / kg fuel
+   TOTAL WtT:          0.32 kg CO2e / kg fuel
+   TOTAL WtW:          3.471 kg CO2e / kg fuel
+
+3. MARINE GAS OIL (MGO)
+   Specification:      ISO 8217 DMA
+   Density:            0.84 — 0.87 kg/liter
+   Energy Content:     42.7 MJ/kg
+
+   TOTAL TtW:          3.206 kg CO2e / kg fuel
+   TOTAL WtT:          0.41 kg CO2e / kg fuel
+   TOTAL WtW:          3.616 kg CO2e / kg fuel
+
+4. LNG (Liquefied Natural Gas)
+   Density:            0.45 kg/liter
+   Energy Content:     48.0 MJ/kg
+
+   TOTAL TtW:          2.750 kg CO2e / kg fuel (incl. methane slip)
+   TOTAL WtT:          0.45 kg CO2e / kg fuel
+   TOTAL WtW:          3.200 kg CO2e / kg fuel
+
+================================================================================
+ROAD TRANSPORT FUELS — EMISSION FACTORS
+================================================================================
+
+CHEVRON CORPORATION — FUEL CARBON DATA (US MARKET)
+(Source: Chevron 2024 Climate Change Resilience Report)
+
+1. ULTRA-LOW SULFUR DIESEL (ULSD) — US road transport
+   Density:            0.832 kg/liter (at 15°C)
+   Energy Content:     35.86 MJ/liter | 43.1 MJ/kg
+   Carbon Content:     ~86.2%
+
+   Tank-to-Wheel:      2.68 kg CO2 / liter
+                        = 10.15 kg CO2 / US gallon
+                        = 73.15 g CO2 / MJ
+   Well-to-Wheel:      3.24 kg CO2e / liter (incl. upstream)
+
+2. REGULAR GASOLINE (E10, 10% ethanol blend)
+   Density:            0.745 kg/liter
+   Tank-to-Wheel:      2.31 kg CO2 / liter
+                        = 8.74 kg CO2 / US gallon
+   Well-to-Wheel:      2.92 kg CO2e / liter
+
+3. B20 BIODIESEL BLEND (20% biodiesel, 80% ULSD)
+   Tank-to-Wheel:      2.46 kg CO2 / liter (biogenic CO2 excluded)
+   Well-to-Wheel:      2.80 kg CO2e / liter
+   Lifecycle reduction: ~14% vs pure ULSD
+
+4. COMPRESSED NATURAL GAS (CNG) — heavy-duty vehicles
+   Tank-to-Wheel:      2.75 kg CO2 / kg CNG
+   Well-to-Wheel:      3.20 kg CO2e / kg CNG
+   Equivalent:         ~1.89 kg CO2e / diesel-liter-equivalent
+
+================================================================================
+ELECTRICITY GRID EMISSION FACTORS (FOR EV TRUCKING)
+================================================================================
+
+California (CAISO, 2024 average):           0.220 kg CO2e / kWh
+US National Average (EPA eGRID 2024):       0.386 kg CO2e / kWh
+Zhejiang Province, China (2024):            0.581 kg CO2e / kWh
+Guangdong Province, China (2024):           0.498 kg CO2e / kWh
+US — Tennessee (TVA region, 2024):          0.312 kg CO2e / kWh
+
+================================================================================
+NOTES & METHODOLOGY
+================================================================================
+
+  - Marine fuel emission factors per IMO Fourth GHG Study (2020) & IMO
+    Revised Guidelines (MEPC.364(79))
+  - Road fuel factors per US EPA Emission Factors Hub (2024) and
+    IPCC 2006 Guidelines (2019 refinement)
+  - Well-to-tank factors per JEC Well-to-Wheels Analysis v5
+  - Grid factors per IEA CO2 Emissions from Fuel Combustion (2024)
+    and China MEE Regional Grid Emission Factors (2024 update)
+
+  These factors are provided for GHG Protocol Scope 3 accounting purposes.
+  Actual emissions may vary based on engine efficiency, load factors,
+  ambient conditions, and fuel batch composition.
+
+  For questions: marine-sustainability@shell.com

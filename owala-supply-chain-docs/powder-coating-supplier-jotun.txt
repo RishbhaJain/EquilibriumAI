@@ -1,0 +1,76 @@
+JOTUN POWDER COATINGS (ZHANGJIAGANG) CO., LTD.
+佐敦粉末涂料（张家港）有限公司
+
+DELIVERY NOTE / INVOICE
+
+Invoice No:     JPC-ZJG-2025-05581
+Date:           June 25, 2025
+Customer:       Zhejiang HydroSteel Vessels Co., Ltd.
+
+SELLER:
+  Jotun Powder Coatings (Zhangjiagang) Co., Ltd.
+  No. 18 Yanjiang Road, Zhangjiagang Free Trade Zone
+  Zhangjiagang, Jiangsu Province 215634, China
+  Contact: Ms. Zhao Ling | zhao.ling@jotun.com.cn
+
+BUYER:
+  Zhejiang HydroSteel Vessels Co., Ltd.
+  Yongkang, Zhejiang 321300, China
+
+DELIVERY: Ex-Works Zhangjiagang | Buyer arranges transport
+TRANSPORT: Trucking Zhangjiagang → Yongkang (~450 km, ~6 hrs)
+
+ITEMS:
+
+ 1. Jotun PPC HybridCure 500 — Polyester Powder Coating
+    Type:           TGIC-free, food-safe surface coating
+    Colors:         Custom matched to Owala color specs:
+                    - Very Very Dark (Black matte):   400 kg
+                    - Sage (Green semi-gloss):         280 kg
+                    - Smooshed Blueberry (Blue matte): 320 kg
+                    - Lilac Purple (matte):            200 kg
+                    - Hyper Flamingo (Pink matte):     150 kg
+                    - Tangerine Dream (Orange matte):  100 kg
+
+    Total Quantity: 1,450 kg
+    Unit Price:     RMB 42.00 / kg
+    Subtotal:       RMB 60,900.00
+
+ 2. Clear topcoat — Jotun PPC ClearShield 200
+    Type:           Transparent protective finish
+    Quantity:       380 kg
+    Unit Price:     RMB 48.00 / kg
+    Subtotal:       RMB 18,240.00
+
+TOTAL WEIGHT:     1,830 kg
+SUBTOTAL:         RMB 79,140.00
+VAT (13%):        RMB 10,288.20
+TOTAL:            RMB 89,428.20 (~USD $12,315)
+
+DELIVERY:
+  Truck: Light-duty, ~450 km from Zhangjiagang to Yongkang
+  Estimated diesel: ~90 liters
+  CO2: ~241 kg
+
+PRODUCTION DATA (Jotun Zhangjiagang facility):
+  Annual powder coating production: ~12,000 tonnes
+  Facility energy: 70% electricity, 30% natural gas
+  Annual Scope 1+2 emissions: ~4,200 tonnes CO2e
+  Carbon intensity: ~0.35 kg CO2e per kg powder coating produced
+  Jotun Group has SBTi-validated 1.5°C aligned targets
+
+APPLICATION NOTE:
+  Powder coating at HydroSteel factory uses 12g coating per 24oz bottle
+  and 15g per 32oz bottle. Curing at 200°C for 15 min in gas-fired oven.
+  Overshoot/waste factor: ~18% (recycled via reclaim system, ~85% recovery).
+
+--- REORDER ---
+
+Invoice No:     JPC-ZJG-2025-09102
+Date:           September 15, 2025
+
+  1,200 kg assorted colors + 300 kg clear topcoat
+  Same specs. Delivery to Yongkang.
+  TOTAL: RMB 74,520 + VAT = RMB 84,207.60
+
+  Trucking: 450 km, ~90 L diesel, ~241 kg CO2
