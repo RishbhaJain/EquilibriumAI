@@ -1,0 +1,712 @@
+{
+  "metadata": {
+    "company": "Owala Inc.",
+    "report_period": "Q3-Q4 2025 (Jul-Dec)",
+    "total_units_produced": 90000,
+    "total_units_shipped": 89400,
+    "ecommerce_units": 18500,
+    "retail_units": 70900,
+    "generated_date": "2026-02-14",
+    "methodology": "GHG Protocol Scope 3, cradle-to-customer"
+  },
+
+  "products": [
+    {
+      "sku": "OWL-FS24-BLK",
+      "name": "FreeSip 24oz — Very, Very Dark (Black)",
+      "size_oz": 24,
+      "unit_weight_g": 342,
+      "units_produced": 24500,
+      "carbon_per_unit_kg_co2e": 2.40
+    },
+    {
+      "sku": "OWL-FS24-SAG",
+      "name": "FreeSip 24oz — Sage (Green)",
+      "size_oz": 24,
+      "unit_weight_g": 342,
+      "units_produced": 10500,
+      "carbon_per_unit_kg_co2e": 2.40
+    },
+    {
+      "sku": "OWL-FS24-BLU",
+      "name": "FreeSip 24oz — Smooshed Blueberry (Blue)",
+      "size_oz": 24,
+      "unit_weight_g": 342,
+      "units_produced": 16000,
+      "carbon_per_unit_kg_co2e": 2.40
+    },
+    {
+      "sku": "OWL-FS24-LIL",
+      "name": "FreeSip 24oz — Lilac Purple",
+      "size_oz": 24,
+      "unit_weight_g": 342,
+      "units_produced": 6500,
+      "carbon_per_unit_kg_co2e": 2.40
+    },
+    {
+      "sku": "OWL-FS24-PNK",
+      "name": "FreeSip 24oz — Hyper Flamingo (Pink)",
+      "size_oz": 24,
+      "unit_weight_g": 342,
+      "units_produced": 3000,
+      "carbon_per_unit_kg_co2e": 2.40
+    },
+    {
+      "sku": "OWL-FS32-BLK",
+      "name": "FreeSip 32oz — Very, Very Dark (Black)",
+      "size_oz": 32,
+      "unit_weight_g": 421,
+      "units_produced": 16500,
+      "carbon_per_unit_kg_co2e": 2.58
+    },
+    {
+      "sku": "OWL-FS32-SAG",
+      "name": "FreeSip 32oz — Sage (Green)",
+      "size_oz": 32,
+      "unit_weight_g": 421,
+      "units_produced": 8500,
+      "carbon_per_unit_kg_co2e": 2.58
+    },
+    {
+      "sku": "OWL-FS32-LIL",
+      "name": "FreeSip 32oz — Lilac Purple",
+      "size_oz": 32,
+      "unit_weight_g": 421,
+      "units_produced": 4500,
+      "carbon_per_unit_kg_co2e": 2.58
+    }
+  ],
+
+  "supply_chain_stages": {
+    "1_raw_materials": {
+      "stage_name": "Raw Material Extraction & Production",
+      "scope": "Scope 3 — Upstream",
+      "total_kg_co2e": 64710,
+      "per_unit_24oz_kg_co2e": 0.762,
+      "per_unit_32oz_kg_co2e": 0.924,
+      "percentage_of_total": 30.3,
+      "materials": {
+        "stainless_steel": {
+          "supplier": "Baoshan Iron & Steel Co., Ltd. (Baosteel)",
+          "location": "Baoshan, Shanghai, China",
+          "total_weight_kg": 76200,
+          "orders": [
+            {
+              "contract": "BST-YK-2025-07182",
+              "date": "2025-07-05",
+              "quantity_tonnes": 32.7,
+              "cost_usd": 93350
+            },
+            {
+              "contract": "BST-YK-2025-09445",
+              "date": "2025-09-28",
+              "quantity_tonnes": 43.5,
+              "cost_usd": 125490
+            }
+          ],
+          "emission_factor": 1.83,
+          "emission_factor_unit": "kg CO2e per kg crude steel",
+          "per_unit_24oz": {
+            "weight_g": 260,
+            "kg_co2e": 0.476
+          },
+          "per_unit_32oz": {
+            "weight_g": 327,
+            "kg_co2e": 0.598
+          },
+          "total_kg_co2e": 46728
+        },
+        "tritan_copolyester": {
+          "supplier": "Eastman Chemical Company",
+          "location": "Kingsport, Tennessee, USA",
+          "total_weight_kg": 6000,
+          "order": {
+            "invoice": "EC-EXP-2025-081744",
+            "date": "2025-06-28",
+            "quantity_kg": 6000,
+            "cost_usd": 27765
+          },
+          "emission_factor": 3.8,
+          "emission_factor_unit": "kg CO2e per kg resin",
+          "per_unit_24oz": {
+            "weight_g": 38,
+            "kg_co2e": 0.144
+          },
+          "per_unit_32oz": {
+            "weight_g": 42,
+            "kg_co2e": 0.160
+          },
+          "total_kg_co2e": 13500,
+          "note": "Tritan ships Kingsport TN → Savannah GA (truck, 520mi) → Ningbo (ocean, 32 days via Suez) → Yongkang (truck)"
+        },
+        "silicone_components": {
+          "supplier": "Dongguan SinoSeal Rubber & Silicone Products Ltd.",
+          "location": "Dongguan, Guangdong, China",
+          "total_weight_kg": 1820,
+          "orders": [
+            { "invoice": "SS-2025-06334", "date": "2025-07-08", "cost_usd": 38490, "pieces": 250000 },
+            { "invoice": "SS-2025-10118", "date": "2025-10-15", "cost_usd": 12630, "pieces": 65000 }
+          ],
+          "emission_factor": 4.23,
+          "emission_factor_unit": "kg CO2e per kg (8.5 kWh/kg × Guangdong grid 0.498 kg CO2/kWh)",
+          "per_unit_24oz": {
+            "weight_g": 26,
+            "kg_co2e": 0.110
+          },
+          "per_unit_32oz": {
+            "weight_g": 30,
+            "kg_co2e": 0.127
+          },
+          "total_kg_co2e": 3042
+        },
+        "powder_coating": {
+          "supplier": "Jotun Coatings (Zhangjiagang)",
+          "per_unit_24oz": { "weight_g": 12, "kg_co2e": 0.020 },
+          "per_unit_32oz": { "weight_g": 15, "kg_co2e": 0.025 },
+          "total_kg_co2e": 944
+        },
+        "polypropylene_straw": {
+          "supplier": "Local supplier (Yongkang)",
+          "per_unit_24oz": { "weight_g": 6, "kg_co2e": 0.012 },
+          "per_unit_32oz": { "weight_g": 7, "kg_co2e": 0.014 },
+          "total_kg_co2e": 496
+        }
+      }
+    },
+
+    "2_inland_trucking_china": {
+      "stage_name": "Inland Trucking — China (Raw Materials + Factory to Port)",
+      "scope": "Scope 3 — Upstream Transportation",
+      "carrier": "Yongkang Lianhe Transport Co., Ltd.",
+      "total_kg_co2e": 7927,
+      "per_unit_kg_co2e": 0.088,
+      "percentage_of_total": 3.7,
+      "total_distance_km": 6550,
+      "total_diesel_liters": 1908,
+      "empty_return_diesel_liters": 1050,
+      "emission_factor": 2.68,
+      "emission_factor_unit": "kg CO2 per liter diesel",
+      "routes": [
+        {
+          "route": "Baosteel Shanghai → Yongkang",
+          "distance_km": 360,
+          "trips": 3,
+          "purpose": "Stainless steel coils",
+          "co2_kg": 1491
+        },
+        {
+          "route": "SinoSeal Dongguan → Yongkang",
+          "distance_km": 980,
+          "trips": 2,
+          "purpose": "Silicone components",
+          "co2_kg": 1445
+        },
+        {
+          "route": "GreenPack Shenzhen → Yongkang",
+          "distance_km": 1150,
+          "trips": 2,
+          "purpose": "Packaging boxes",
+          "co2_kg": 1810
+        },
+        {
+          "route": "Yongkang → Ningbo Port",
+          "distance_km": 190,
+          "trips": 7,
+          "purpose": "Finished goods containers to port",
+          "co2_kg": 3181
+        }
+      ]
+    },
+
+    "3_manufacturing": {
+      "stage_name": "Manufacturing — Assembly & Production",
+      "scope": "Scope 3 — Upstream (Supplier Scope 1+2)",
+      "facility": "Zhejiang HydroSteel Vessels Co., Ltd.",
+      "location": "Yongkang, Zhejiang Province, China",
+      "total_kg_co2e": 49950,
+      "per_unit_kg_co2e": 0.555,
+      "percentage_of_total": 23.4,
+      "energy_breakdown": {
+        "electricity": {
+          "annual_kwh": 3840000,
+          "grid_factor_kg_co2e_per_kwh": 0.581,
+          "annual_co2e_tonnes": 2231,
+          "source": "Zhejiang Provincial Grid"
+        },
+        "natural_gas": {
+          "annual_m3": 38400,
+          "factor_kg_co2_per_m3": 2.0,
+          "annual_co2e_tonnes": 76.8,
+          "use": "Powder coating ovens (200°C), vacuum furnaces, space heating"
+        },
+        "diesel": {
+          "annual_liters": 8200,
+          "annual_co2e_tonnes": 22.0,
+          "use": "Factory vehicles, backup generator"
+        }
+      },
+      "facility_annual_co2e_tonnes": 2330,
+      "facility_annual_production_units": 4200000,
+      "certifications": ["ISO 9001:2015", "ISO 14001:2015", "ISO 45001:2018", "BSCI Grade A"]
+    },
+
+    "4_packaging": {
+      "stage_name": "Retail Packaging Production",
+      "scope": "Scope 3 — Upstream",
+      "supplier": "Shenzhen GreenPack Printing Co., Ltd.",
+      "location": "Shenzhen, Guangdong, China",
+      "total_kg_co2e": 720,
+      "per_unit_kg_co2e": 0.008,
+      "percentage_of_total": 0.3,
+      "material": "Recycled corrugated cardboard, E-flute, 85% post-consumer recycled fiber",
+      "certification": "FSC-C123456",
+      "orders": [
+        { "invoice": "GP-2025-07-0892", "boxes": 80000, "cost_usd": 18830 },
+        { "invoice": "GP-2025-09-1244", "boxes": 60000, "cost_usd": 14910 },
+        { "invoice": "GP-2025-10-1518", "boxes": 20000, "cost_usd": 4700 }
+      ]
+    },
+
+    "5_ocean_freight": {
+      "stage_name": "Ocean Freight — Ningbo to Long Beach",
+      "scope": "Scope 3 — Upstream Transportation",
+      "total_kg_co2e": 9450,
+      "per_unit_kg_co2e": 0.105,
+      "percentage_of_total": 4.4,
+      "route": "Ningbo, China → Long Beach, CA, USA",
+      "distance_nautical_miles": 5680,
+      "fuel_type": "VLSFO (0.5% sulphur)",
+      "fuel_emission_factor": 3.151,
+      "fuel_emission_factor_unit": "kg CO2 per kg VLSFO",
+      "shipments": [
+        {
+          "vessel": "COSCO Shipping Orchid",
+          "voyage": "0285E",
+          "carrier": "COSCO",
+          "bol": "COSU6278451280",
+          "invoice_ref": "INV-ZHV-25-4401",
+          "po_ref": "PO-OWL-2025-0847",
+          "containers": 1,
+          "units": 15000,
+          "gross_weight_kg": 6382,
+          "etd": "2025-08-18",
+          "eta": "2025-09-02",
+          "transit_days": 15,
+          "speed_knots": "16-17 (slow steaming)",
+          "vessel_teu": 19100,
+          "co2_per_container_kg": 1360,
+          "total_co2_kg": 1360,
+          "co2_per_unit_kg": 0.091,
+          "freight_cost_usd": 4225
+        },
+        {
+          "vessel": "COSCO Shipping Peony",
+          "voyage": "0312E",
+          "carrier": "COSCO",
+          "bol": "COSU6291003455",
+          "invoice_ref": "INV-ZHV-25-4455",
+          "po_ref": "PO-OWL-2025-0923 (1/2)",
+          "containers": 1,
+          "units": 12000,
+          "gross_weight_kg": 5201,
+          "etd": "2025-09-25",
+          "eta": "2025-10-10",
+          "transit_days": 15,
+          "speed_knots": "16-17 (slow steaming)",
+          "vessel_teu": 19100,
+          "co2_per_container_kg": 1360,
+          "total_co2_kg": 1360,
+          "co2_per_unit_kg": 0.113,
+          "freight_cost_usd": 4225
+        },
+        {
+          "vessel": "COSCO Shipping Jasmine",
+          "voyage": "0318E",
+          "carrier": "COSCO",
+          "bol": "COSU6295887102",
+          "invoice_ref": "INV-ZHV-25-4460",
+          "po_ref": "PO-OWL-2025-0923 (2/2)",
+          "containers": 1,
+          "units": 10000,
+          "gross_weight_kg": 4423,
+          "etd": "2025-10-06",
+          "eta": "2025-10-21",
+          "transit_days": 15,
+          "speed_knots": "16-17 (slow steaming)",
+          "vessel_teu": 19100,
+          "co2_per_container_kg": 1360,
+          "total_co2_kg": 1360,
+          "co2_per_unit_kg": 0.136,
+          "freight_cost_usd": 4225
+        },
+        {
+          "vessel": "COSCO Shipping Universe",
+          "voyage": "0331E",
+          "carrier": "COSCO",
+          "bol": "COSU6301445590",
+          "invoice_ref": "INV-ZHV-25-4512",
+          "po_ref": "PO-OWL-2025-1015 (1/2)",
+          "containers": 2,
+          "units": 20000,
+          "gross_weight_kg": 8892,
+          "etd": "2025-11-01",
+          "eta": "2025-11-16",
+          "transit_days": 15,
+          "speed_knots": "17 (slow steaming)",
+          "vessel_teu": 21237,
+          "co2_per_container_kg": 1240,
+          "total_co2_kg": 2480,
+          "co2_per_unit_kg": 0.124,
+          "freight_cost_usd": 8375,
+          "note": "Larger vessel class — more efficient per TEU"
+        },
+        {
+          "vessel": "COSCO Shipping Nebula",
+          "voyage": "0338E",
+          "carrier": "COSCO",
+          "bol": "COSU6305221847",
+          "invoice_ref": "INV-ZHV-25-4530",
+          "po_ref": "PO-OWL-2025-1015 (2/2)",
+          "containers": 1,
+          "units": 15000,
+          "gross_weight_kg": 6585,
+          "etd": "2025-11-08",
+          "eta": "2025-11-23",
+          "transit_days": 15,
+          "speed_knots": "16-17 (slow steaming)",
+          "vessel_teu": 19100,
+          "co2_per_container_kg": 1360,
+          "total_co2_kg": 1360,
+          "co2_per_unit_kg": 0.091,
+          "freight_cost_usd": 4225
+        },
+        {
+          "vessel": "Maersk Edirne",
+          "voyage": "249W",
+          "carrier": "Maersk",
+          "bol": "MAEU712849502",
+          "invoice_ref": "INV-ZHV-25-4558",
+          "po_ref": "PO-OWL-2025-1102",
+          "containers": 1,
+          "units": 18000,
+          "gross_weight_kg": 7712,
+          "etd": "2025-11-22",
+          "eta": "2025-12-03",
+          "transit_days": 11,
+          "speed_knots": "18-19 (express service)",
+          "vessel_teu": 15282,
+          "co2_per_container_kg": 1530,
+          "total_co2_kg": 1530,
+          "co2_per_unit_kg": 0.085,
+          "freight_cost_usd": 5215,
+          "note": "Express service — 28% higher fuel consumption per TEU-mile vs slow steaming"
+        }
+      ]
+    },
+
+    "6_port_to_dc_trucking": {
+      "stage_name": "Port Drayage — Long Beach to Ontario DC",
+      "scope": "Scope 3 — Upstream Transportation",
+      "carrier": "XPO Logistics",
+      "total_kg_co2e": 1112,
+      "per_unit_kg_co2e": 0.012,
+      "percentage_of_total": 0.5,
+      "route": "Port of Long Beach → Owala DC, Ontario, CA",
+      "distance_miles": 55,
+      "total_trips": 7,
+      "trips": [
+        {
+          "invoice": "XPO-LA-2025-88412",
+          "date": "2025-09-02",
+          "container": "CSLU7724580",
+          "vehicle": "Freightliner Cascadia (Diesel)",
+          "co2_kg": 181.3,
+          "cost_usd": 1007.30
+        },
+        {
+          "invoice": "XPO-LA-2025-91003",
+          "date": "2025-10-11",
+          "container": "CSLU8891234",
+          "vehicle": "Freightliner Cascadia (Diesel)",
+          "co2_kg": 181.3,
+          "cost_usd": 962.30
+        },
+        {
+          "invoice": "XPO-LA-2025-93218",
+          "date": "2025-10-22",
+          "container": "TEMU4456721",
+          "vehicle": "Kenworth T680 (Diesel)",
+          "co2_kg": 181.3,
+          "cost_usd": 962.30
+        },
+        {
+          "invoice": "XPO-LA-2025-97501",
+          "date": "2025-11-17",
+          "containers": ["CSLU9012345", "CSLU9012388"],
+          "vehicle": "2x Freightliner Cascadia (Diesel)",
+          "co2_kg": 362.6,
+          "cost_usd": 1924.60
+        },
+        {
+          "invoice": "XPO-LA-2025-99887",
+          "date": "2025-11-24",
+          "container": "OOLU3378291",
+          "vehicle": "Diesel Class 8",
+          "co2_kg": 181.3,
+          "cost_usd": 962.30
+        },
+        {
+          "invoice": "XPO-LA-2025-101445",
+          "date": "2025-12-03",
+          "container": "MSKU6634217",
+          "vehicle": "Freightliner eCascadia (ELECTRIC)",
+          "co2_kg": 27.0,
+          "cost_usd": 1010.00,
+          "note": "Zero tailpipe emissions — 121 kWh grid electricity @ 0.22 kg CO2/kWh (CAISO)"
+        }
+      ]
+    },
+
+    "7_warehousing": {
+      "stage_name": "Distribution Center — Warehousing & Handling",
+      "scope": "Scope 3 — Downstream",
+      "facility": "Ryder Integrated Logistics — Owala DC",
+      "location": "1450 S. Milliken Ave, Ontario, CA 91761",
+      "total_kg_co2e": 117000,
+      "per_unit_kg_co2e": 1.309,
+      "percentage_of_total": 54.8,
+      "owala_share_of_facility": 0.082,
+      "facility_annual_co2e_tonnes": 2840,
+      "breakdown": {
+        "electricity_hvac_lighting_tonnes": 1920,
+        "natural_gas_heating_tonnes": 480,
+        "forklifts_propane_tonnes": 310,
+        "yard_trucks_diesel_tonnes": 130
+      }
+    },
+
+    "8_dc_to_retail_distribution": {
+      "stage_name": "Outbound Distribution — DC to Retail DCs",
+      "scope": "Scope 3 — Downstream Transportation",
+      "total_kg_co2e": 13380,
+      "per_unit_kg_co2e": 0.150,
+      "percentage_of_total": 6.3,
+      "total_shipments": 28,
+      "total_units_shipped": 89400,
+      "total_weight_kg": 34267,
+      "carriers": [
+        {
+          "carrier": "Ryder Dedicated",
+          "type": "FTL",
+          "shipments": 11,
+          "emission_factor_g_per_tonne_mile": 65,
+          "co2_kg": 1120
+        },
+        {
+          "carrier": "FedEx Freight",
+          "type": "LTL",
+          "shipments": 6,
+          "emission_factor_g_per_tonne_mile": 115,
+          "co2_kg": 3850
+        },
+        {
+          "carrier": "XPO LTL",
+          "type": "LTL",
+          "shipments": 3,
+          "emission_factor_g_per_tonne_mile": 108,
+          "co2_kg": 2680
+        },
+        {
+          "carrier": "Old Dominion (ODFL)",
+          "type": "LTL",
+          "shipments": 2,
+          "emission_factor_g_per_tonne_mile": 98,
+          "co2_kg": 5440
+        },
+        {
+          "carrier": "Amazon Relay",
+          "type": "FTL",
+          "shipments": 4,
+          "emission_factor_g_per_tonne_mile": 72,
+          "co2_kg": 290
+        }
+      ],
+      "destinations": [
+        { "retailer": "Target", "shipments": 10, "units": 35200, "destinations": ["Fontana CA", "Denton TX", "DeKalb IL", "Lacey WA"] },
+        { "retailer": "Amazon", "shipments": 4, "units": 14500, "destinations": ["San Bernardino CA (ONT8, LAX9)"] },
+        { "retailer": "REI", "shipments": 4, "units": 8000, "destinations": ["Goodyear AZ"] },
+        { "retailer": "Walmart", "shipments": 3, "units": 10000, "destinations": ["Chino CA"] },
+        { "retailer": "Costco", "shipments": 2, "units": 7500, "destinations": ["Tracy CA"] },
+        { "retailer": "Dick's Sporting Goods", "shipments": 2, "units": 3400, "destinations": ["Smithton PA"] },
+        { "retailer": "Nordstrom", "shipments": 1, "units": 1500, "destinations": ["Ontario CA"] }
+      ]
+    },
+
+    "9_last_mile_ecommerce": {
+      "stage_name": "Last-Mile Delivery — E-Commerce",
+      "scope": "Scope 3 — Downstream Transportation",
+      "total_kg_co2e": 12553,
+      "per_unit_kg_co2e": 0.678,
+      "percentage_of_total": 5.9,
+      "applies_to_units": 18500,
+      "note": "Only applies to e-commerce units. Brick-and-mortar consumer transport not in scope.",
+      "channels": [
+        {
+          "channel": "Amazon FBA",
+          "units": 12400,
+          "avg_delivery_distance_miles": 8.2,
+          "kg_co2e_per_package": 0.52,
+          "total_kg_co2e": 6448
+        },
+        {
+          "channel": "Owala.com (DTC)",
+          "units": 3200,
+          "avg_delivery_distance_miles": 620,
+          "carrier": "FedEx Ground",
+          "kg_co2e_per_package": 1.12,
+          "total_kg_co2e": 3584
+        },
+        {
+          "channel": "Target.com",
+          "units": 2100,
+          "avg_delivery_distance_miles": 185,
+          "kg_co2e_per_package": 0.85,
+          "total_kg_co2e": 1785
+        },
+        {
+          "channel": "REI.com",
+          "units": 800,
+          "avg_delivery_distance_miles": 340,
+          "kg_co2e_per_package": 0.92,
+          "total_kg_co2e": 736
+        }
+      ],
+      "ecommerce_packaging_co2_kg": 1050
+    }
+  },
+
+  "totals": {
+    "total_co2e_kg": 213602,
+    "total_co2e_tonnes": 213.6,
+    "per_unit_weighted_avg_kg_co2e": {
+      "freesip_24oz": 2.40,
+      "freesip_32oz": 2.58,
+      "blended_avg_all_units": 2.39
+    },
+    "by_stage_summary": [
+      { "stage": "Raw Materials",           "kg_co2e": 64710,  "pct": 30.3, "per_unit_kg": 0.719 },
+      { "stage": "Inland Trucking (China)", "kg_co2e": 7927,   "pct": 3.7,  "per_unit_kg": 0.088 },
+      { "stage": "Manufacturing",           "kg_co2e": 49950,  "pct": 23.4, "per_unit_kg": 0.555 },
+      { "stage": "Packaging Production",    "kg_co2e": 720,    "pct": 0.3,  "per_unit_kg": 0.008 },
+      { "stage": "Ocean Freight",           "kg_co2e": 9450,   "pct": 4.4,  "per_unit_kg": 0.105 },
+      { "stage": "Port Drayage (US)",       "kg_co2e": 1112,   "pct": 0.5,  "per_unit_kg": 0.012 },
+      { "stage": "Warehousing (DC)",        "kg_co2e": 117000, "pct": 54.8, "per_unit_kg": 1.309 },
+      { "stage": "DC to Retail",            "kg_co2e": 13380,  "pct": 6.3,  "per_unit_kg": 0.150 },
+      { "stage": "Last Mile (e-comm only)", "kg_co2e": 12553,  "pct": 5.9,  "per_unit_kg": 0.678 }
+    ],
+    "by_scope": {
+      "scope_3_upstream": {
+        "includes": ["Raw Materials", "Inland Trucking", "Manufacturing", "Packaging", "Ocean Freight", "Port Drayage"],
+        "total_kg_co2e": 133869,
+        "pct": 62.7
+      },
+      "scope_3_downstream": {
+        "includes": ["Warehousing", "DC to Retail", "Last Mile"],
+        "total_kg_co2e": 142933,
+        "pct": 66.9
+      }
+    }
+  },
+
+  "purchase_orders": [
+    {
+      "po_number": "PO-OWL-2025-0847",
+      "date": "2025-07-15",
+      "units": 15000,
+      "skus": ["OWL-FS24-BLK", "OWL-FS24-SAG", "OWL-FS24-BLU", "OWL-FS32-BLK"],
+      "value_usd": 76225,
+      "shipments": 1,
+      "invoices": ["INV-ZHV-25-4401"],
+      "vessels": ["COSCO Shipping Orchid (0285E)"],
+      "estimated_total_co2_kg": 35850
+    },
+    {
+      "po_number": "PO-OWL-2025-0923",
+      "date": "2025-08-22",
+      "units": 22000,
+      "skus": ["OWL-FS24-BLK", "OWL-FS24-SAG", "OWL-FS24-BLU", "OWL-FS24-LIL", "OWL-FS32-BLK", "OWL-FS32-SAG"],
+      "value_usd": 113900,
+      "shipments": 2,
+      "invoices": ["INV-ZHV-25-4455", "INV-ZHV-25-4460"],
+      "vessels": ["COSCO Shipping Peony (0312E)", "COSCO Shipping Jasmine (0318E)"],
+      "estimated_total_co2_kg": 52580
+    },
+    {
+      "po_number": "PO-OWL-2025-1015",
+      "date": "2025-10-03",
+      "units": 35000,
+      "skus": ["OWL-FS24-BLK", "OWL-FS24-SAG", "OWL-FS24-BLU", "OWL-FS24-LIL", "OWL-FS24-PNK", "OWL-FS32-BLK", "OWL-FS32-SAG", "OWL-FS32-LIL"],
+      "value_usd": 186300,
+      "shipments": 2,
+      "invoices": ["INV-ZHV-25-4512", "INV-ZHV-25-4530"],
+      "vessels": ["COSCO Shipping Universe (0331E)", "COSCO Shipping Nebula (0338E)"],
+      "estimated_total_co2_kg": 83650,
+      "flags": ["HOLIDAY_PRIORITY"]
+    },
+    {
+      "po_number": "PO-OWL-2025-1102",
+      "date": "2025-11-08",
+      "units": 18000,
+      "skus": ["OWL-FS24-BLK", "OWL-FS24-BLU", "OWL-FS32-BLK"],
+      "value_usd": 105657.50,
+      "shipments": 1,
+      "invoices": ["INV-ZHV-25-4558"],
+      "vessels": ["Maersk Edirne (249W)"],
+      "estimated_total_co2_kg": 43020,
+      "flags": ["RUSH_ORDER", "EXPRESS_SHIPPING", "OVERTIME_PRODUCTION"]
+    }
+  ],
+
+  "emission_factors_reference": {
+    "stainless_steel_production": { "value": 1.83, "unit": "kg CO2e / kg steel", "source": "Baosteel 2024 Sustainability Report" },
+    "tritan_resin_production": { "value": 3.8, "unit": "kg CO2e / kg resin", "source": "Eastman 2024 Sustainability Report" },
+    "silicone_production": { "value": 4.23, "unit": "kg CO2e / kg", "source": "Derived: 8.5 kWh/kg × Guangdong grid 0.498" },
+    "zhejiang_grid_electricity": { "value": 0.581, "unit": "kg CO2e / kWh", "source": "MEE China Regional Grid Factor 2024" },
+    "guangdong_grid_electricity": { "value": 0.498, "unit": "kg CO2e / kWh", "source": "MEE China 2024" },
+    "california_grid_electricity": { "value": 0.220, "unit": "kg CO2e / kWh", "source": "CAISO 2024 average" },
+    "diesel_combustion": { "value": 2.68, "unit": "kg CO2 / liter", "source": "EPA Emission Factors Hub 2024" },
+    "vlsfo_marine_fuel": { "value": 3.151, "unit": "kg CO2 / kg fuel", "source": "IMO Fourth GHG Study" },
+    "vlsfo_well_to_wake": { "value": 3.472, "unit": "kg CO2e / kg fuel", "source": "Shell Marine / JEC WtW v5" },
+    "natural_gas": { "value": 2.0, "unit": "kg CO2 / m³", "source": "IPCC 2006 Guidelines" },
+    "ocean_freight_cosco_teu": { "value": 680, "unit": "kg CO2 / TEU (one-way, 19100 TEU class)", "source": "COSCO 2024 Environmental Report" },
+    "ocean_freight_cosco_40hc": { "value": 1360, "unit": "kg CO2 / 40HC container", "source": "COSCO 2024" },
+    "ocean_freight_maersk_express_40hc": { "value": 1530, "unit": "kg CO2 / 40HC container (express)", "source": "Maersk ECO Delivery" },
+    "xpo_drayage_diesel_roundtrip": { "value": 181.3, "unit": "kg CO2 / container move (110mi RT)", "source": "XPO SmartWay 2024" },
+    "xpo_drayage_ev_roundtrip": { "value": 23.0, "unit": "kg CO2e / container move (EV)", "source": "XPO 2024" }
+  },
+
+  "insights": {
+    "top_hotspots": [
+      "Warehousing (54.8%) — Ryder DC energy allocation dominates; explore shared solar or efficiency upgrades",
+      "Raw Materials (30.3%) — Steel production is the single largest material contributor (72% of raw material emissions)",
+      "Manufacturing (23.4%) — Zhejiang grid is carbon-intensive (0.581 kg/kWh); on-site solar could reduce significantly"
+    ],
+    "express_shipping_impact": {
+      "description": "PO-OWL-2025-1102 rush order used Maersk express (18.5 kts vs 16 kts slow steaming)",
+      "co2_increase_pct_vs_slow_steam": 28,
+      "additional_co2_kg_per_container": 170
+    },
+    "ev_trucking_savings": {
+      "description": "1 of 7 drayage trips used Freightliner eCascadia (electric)",
+      "diesel_trip_co2_kg": 181.3,
+      "ev_trip_co2_kg": 27.0,
+      "reduction_pct": 85.1
+    },
+    "comparison_24oz_vs_32oz": {
+      "freesip_24oz_total_co2_kg": 2.40,
+      "freesip_32oz_total_co2_kg": 2.58,
+      "difference_pct": 7.5,
+      "note": "32oz uses 25% more steel but only 7.5% more total carbon due to shared logistics overhead"
+    }
+  }
+}
